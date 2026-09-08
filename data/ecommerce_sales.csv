@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,customer_city,category,product,units,unit_price,revenue,payment_mode,customer_segment
+ORD10677,2023-01-01,CUST1389,Kolkata,Electronics,Wireless Headphones,2,5500,11000,Credit Card,New
+ORD10617,2023-01-01,CUST1201,Delhi,Electronics,Smart Watch,1,7500,7500,Net Banking,New
+ORD10594,2023-01-01,CUST1143,Mumbai,Sports,Running Shoes,2,4800,9600,UPI,Returning
+ORD10780,2023-01-02,CUST1631,Mumbai,Sports,Yoga Mat,3,1800,5400,Net Banking,New
+ORD10555,2023-01-02,CUST1091,Mumbai,Electronics,Premium Laptop,2,81000,162000,Credit Card,Loyal
+ORD10731,2023-01-03,CUST1604,Kolkata,Electronics,Wireless Headphones,3,5500,16500,Debit Card,Loyal
+ORD10125,2023-01-03,CUST1461,Bengaluru,Beauty,Skincare Kit,3,3200,9600,Debit Card,Returning
+ORD10184,2023-01-03,CUST1081,Bengaluru,Electronics,Smart Watch,2,7500,15000,Debit Card,Returning
+ORD10518,2023-01-04,CUST1163,Jaipur,Fashion,Kurta Set,1,2600,2600,Credit Card,Returning
+ORD10093,2023-01-04,CUST1063,Chennai,Electronics,Smart Watch,2,7500,15000,Credit Card,New
+ORD11038,2023-01-05,CUST1469,Mumbai,Electronics,Wireless Headphones,2,5500,11000,Credit Card,Loyal
+ORD10937,2023-01-05,CUST1289,Hyderabad,Home & Kitchen,Air Fryer,2,8500,17000,Debit Card,Loyal
+ORD10168,2023-01-05,CUST1234,Mumbai,Beauty,Skincare Kit,2,3200,6400,Cash on Delivery,New
+ORD10658,2023-01-05,CUST1457,Delhi,Electronics,Smart Watch,2,7500,15000,UPI,Returning
+ORD10888,2023-01-05,CUST1376,Chennai,Electronics,Wireless Headphones,2,5500,11000,UPI,Returning
+ORD10069,2023-01-07,CUST1556,Bengaluru,Sports,Running Shoes,1,4800,4800,Credit Card,Returning
+ORD10988,2023-01-07,CUST1324,Chennai,Home & Kitchen,Coffee Maker,3,6200,18600,UPI,Returning
+ORD10257,2023-01-07,CUST1254,Bengaluru,Electronics,Smartphone,1,45000,45000,Debit Card,Returning
+ORD11074,2023-01-07,CUST1055,Chennai,Sports,Yoga Mat,2,1800,3600,Cash on Delivery,New
+ORD10321,2023-01-07,CUST1323,Jaipur,Electronics,Smartphone,1,45000,45000,Debit Card,New
+ORD11150,2023-01-08,CUST1494,Kolkata,Electronics,Wireless Headphones,2,5500,11000,UPI,New
+ORD10651,2023-01-08,CUST1023,Chennai,Sports,Yoga Mat,1,1800,1800,Credit Card,New
+ORD10371,2023-01-08,CUST1350,Mumbai,Electronics,Wireless Headphones,3,5500,16500,Credit Card,Returning
+ORD10548,2023-01-08,CUST1132,Mumbai,Electronics,Smartphone,2,45000,90000,Cash on Delivery,Returning
+ORD11172,2023-01-08,CUST1646,Delhi,Home & Kitchen,Air Fryer,2,8500,17000,Credit Card,New
+ORD10450,2023-01-09,CUST1302,Bengaluru,Sports,Running Shoes,2,4800,9600,UPI,Loyal
+ORD10174,2023-01-09,CUST1497,Chennai,Electronics,Smartphone,1,45000,45000,UPI,Returning
+ORD10204,2023-01-09,CUST1280,Bengaluru,Electronics,Wireless Headphones,1,5500,5500,Credit Card,Returning
+ORD10810,2023-01-09,CUST1613,Mumbai,Fashion,Kurta Set,3,2600,7800,Cash on Delivery,New
+ORD10579,2023-01-10,CUST1556,Mumbai,Electronics,Smart Watch,2,7500,15000,Debit Card,New
+ORD10812,2023-01-10,CUST1282,Hyderabad,Sports,Running Shoes,1,4800,4800,Net Banking,New
+ORD10847,2023-01-11,CUST1392,Hyderabad,Sports,Running Shoes,2,4800,9600,UPI,Returning
+ORD10145,2023-01-11,CUST1620,Delhi,Beauty,Skincare Kit,1,3200,3200,UPI,Returning
+ORD10408,2023-01-11,CUST1047,Mumbai,Sports,Yoga Mat,2,1800,3600,Cash on Delivery,New
+ORD10307,2023-01-12,CUST1099,Delhi,Sports,Yoga Mat,2,1800,3600,Net Banking,New
+ORD11019,2023-01-12,CUST1602,Hyderabad,Electronics,Premium Laptop,2,81000,162000,Credit Card,Returning
+ORD10975,2023-01-12,CUST1023,Delhi,Fashion,Kurta Set,2,2600,5200,UPI,Returning
+ORD10627,2023-01-12,CUST1242,Bengaluru,Electronics,Smart Watch,1,7500,7500,Credit Card,New
+ORD10740,2023-01-12,CUST1546,Chennai,Beauty,Skincare Kit,1,3200,3200,Net Banking,Returning
+ORD10925,2023-01-12,CUST1104,Chennai,Home & Kitchen,Air Fryer,3,8500,25500,Cash on Delivery,Returning
+ORD10274,2023-01-12,CUST1401,Jaipur,Electronics,Smartphone,2,45000,90000,Debit Card,Loyal
+ORD10361,2023-01-12,CUST1054,Hyderabad,Sports,Yoga Mat,2,1800,3600,Net Banking,Loyal
+ORD10479,2023-01-12,CUST1279,Chennai,Home & Kitchen,Air Fryer,2,8500,17000,Net Banking,Returning
+ORD10477,2023-01-12,CUST1369,Delhi,Electronics,Smart Watch,3,7500,22500,Credit Card,New
+ORD10030,2023-01-12,CUST1475,Jaipur,Home & Kitchen,Air Fryer,2,8500,17000,UPI,New
+ORD10040,2023-01-12,CUST1485,Kolkata,Electronics,Smartphone,3,45000,135000,Credit Card,Loyal
+ORD10277,2023-01-13,CUST1460,Kolkata,Home & Kitchen,Coffee Maker,2,6200,12400,Net Banking,Loyal
+ORD10079,2023-01-14,CUST1053,Jaipur,Sports,Running Shoes,1,4800,4800,UPI,Loyal
+ORD10989,2023-01-14,CUST1133,Jaipur,Sports,Running Shoes,2,4800,9600,Credit Card,Loyal
+ORD10553,2023-01-14,CUST1182,Mumbai,Electronics,Premium Laptop,2,81000,162000,Cash on Delivery,Loyal
+ORD10562,2023-01-14,CUST1638,Mumbai,Sports,Running Shoes,2,4800,9600,UPI,Loyal
+ORD10476,2023-01-14,CUST1037,Chennai,Sports,Running Shoes,2,4800,9600,Debit Card,New
+ORD11077,2023-01-14,CUST1162,Chennai,Home & Kitchen,Air Fryer,3,8500,25500,Net Banking,New
+ORD10382,2023-01-15,CUST1117,Chennai,Home & Kitchen,Air Fryer,2,8500,17000,UPI,Returning
+ORD10092,2023-01-15,CUST1472,Hyderabad,Beauty,Skincare Kit,4,3200,12800,UPI,New
+ORD10355,2023-01-15,CUST1125,Hyderabad,Electronics,Smartphone,2,45000,90000,UPI,Loyal
+ORD10097,2023-01-16,CUST1392,Pune,Electronics,Premium Laptop,2,81000,162000,UPI,New
+ORD10061,2023-01-16,CUST1562,Pune,Electronics,Premium Laptop,2,81000,162000,Debit Card,Returning
+ORD10035,2023-01-17,CUST1563,Mumbai,Sports,Running Shoes,3,4800,14400,UPI,Returning
+ORD11123,2023-01-17,CUST1119,Hyderabad,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD10306,2023-01-17,CUST1518,Delhi,Home & Kitchen,Air Fryer,1,8500,8500,Credit Card,New
+ORD11157,2023-01-17,CUST1146,Delhi,Beauty,Skincare Kit,2,3200,6400,Cash on Delivery,Loyal
+ORD10542,2023-01-18,CUST1342,Mumbai,Beauty,Skincare Kit,2,3200,6400,Debit Card,Returning
+ORD10826,2023-01-19,CUST1350,Kolkata,Electronics,Wireless Headphones,2,5500,11000,Cash on Delivery,New
+ORD10704,2023-01-19,CUST1184,Hyderabad,Beauty,Skincare Kit,2,3200,6400,UPI,New
+ORD10866,2023-01-19,CUST1511,Delhi,Fashion,Kurta Set,2,2600,5200,Debit Card,New
+ORD10614,2023-01-20,CUST1041,Jaipur,Sports,Running Shoes,1,4800,4800,Debit Card,Returning
+ORD11027,2023-01-20,CUST1640,Bengaluru,Fashion,Kurta Set,2,2600,5200,Debit Card,New
+ORD10176,2023-01-20,CUST1564,Delhi,Electronics,Wireless Headphones,2,5500,11000,Credit Card,New
+ORD10347,2023-01-21,CUST1400,Bengaluru,Beauty,Skincare Kit,2,3200,6400,Credit Card,Returning
+ORD11118,2023-01-21,CUST1082,Delhi,Fashion,Kurta Set,2,2600,5200,Net Banking,Loyal
+ORD10544,2023-01-21,CUST1511,Jaipur,Beauty,Skincare Kit,2,3200,6400,UPI,New
+ORD10309,2023-01-22,CUST1280,Jaipur,Beauty,Skincare Kit,2,3200,6400,Debit Card,New
+ORD10341,2023-01-22,CUST1525,Mumbai,Electronics,Wireless Headphones,2,5500,11000,Cash on Delivery,Loyal
+ORD10264,2023-01-23,CUST1338,Jaipur,Electronics,Smart Watch,3,7500,22500,Net Banking,New
+ORD10516,2023-01-24,CUST1634,Chennai,Electronics,Wireless Headphones,2,5500,11000,Net Banking,Returning
+ORD10379,2023-01-24,CUST1058,Hyderabad,Home & Kitchen,Air Fryer,2,8500,17000,UPI,Returning
+ORD10206,2023-01-25,CUST1198,Jaipur,Sports,Running Shoes,3,4800,14400,UPI,Returning
+ORD10051,2023-01-25,CUST1565,Mumbai,Home & Kitchen,Coffee Maker,2,6200,12400,Debit Card,Returning
+ORD10999,2023-01-25,CUST1407,Kolkata,Electronics,Smartphone,2,45000,90000,Credit Card,Returning
+ORD11015,2023-01-25,CUST1117,Mumbai,Electronics,Smartphone,2,45000,90000,Net Banking,New
+ORD10480,2023-01-25,CUST1217,Hyderabad,Electronics,Wireless Headphones,3,5500,16500,Debit Card,New
+ORD10021,2023-01-25,CUST1386,Kolkata,Home & Kitchen,Coffee Maker,2,6200,12400,Debit Card,Loyal
+ORD11012,2023-01-25,CUST1202,Pune,Electronics,Smartphone,1,45000,45000,Credit Card,Returning
+ORD10057,2023-01-26,CUST1509,Pune,Electronics,Smartphone,1,45000,45000,UPI,New
+ORD10327,2023-01-26,CUST1626,Jaipur,Beauty,Skincare Kit,3,3200,9600,Debit Card,Returning
+ORD10809,2023-01-26,CUST1425,Mumbai,Sports,Yoga Mat,4,1800,7200,Credit Card,Loyal
+ORD10342,2023-01-27,CUST1506,Delhi,Home & Kitchen,Air Fryer,2,8500,17000,UPI,Loyal
+ORD10889,2023-01-27,CUST1459,Chennai,Beauty,Skincare Kit,1,3200,3200,Credit Card,Loyal
+ORD10365,2023-01-27,CUST1053,Pune,Home & Kitchen,Air Fryer,3,8500,25500,Credit Card,New
+ORD10770,2023-01-27,CUST1312,Hyderabad,Electronics,Wireless Headphones,2,5500,11000,Credit Card,Loyal
+ORD11166,2023-01-28,CUST1588,Jaipur,Sports,Running Shoes,1,4800,4800,Debit Card,New
+ORD10570,2023-01-28,CUST1190,Chennai,Electronics,Smartphone,1,45000,45000,UPI,New
+ORD10322,2023-01-29,CUST1128,Mumbai,Electronics,Smartphone,2,45000,90000,Debit Card,New
+ORD10198,2023-01-29,CUST1439,Jaipur,Home & Kitchen,Air Fryer,1,8500,8500,Debit Card,Returning
+ORD10112,2023-01-29,CUST1099,Kolkata,Beauty,Skincare Kit,2,3200,6400,Debit Card,New
+ORD11129,2023-01-29,CUST1053,Bengaluru,Fashion,Kurta Set,2,2600,5200,Credit Card,New
+ORD10930,2023-01-30,CUST1391,Hyderabad,Sports,Yoga Mat,1,1800,1800,Credit Card,Returning
+ORD11025,2023-01-31,CUST1347,Delhi,Electronics,Smartphone,2,45000,90000,UPI,Loyal
+ORD10263,2023-01-31,CUST1153,Delhi,Beauty,Skincare Kit,1,3200,3200,Credit Card,New
+ORD10407,2023-02-01,CUST1069,Chennai,Electronics,Premium Laptop,2,81000,162000,Net Banking,New
+ORD11108,2023-02-03,CUST1469,Jaipur,Home & Kitchen,Air Fryer,2,8500,17000,Debit Card,Returning
+ORD10102,2023-02-03,CUST1231,Bengaluru,Beauty,Skincare Kit,2,3200,6400,Debit Card,New
+ORD10619,2023-02-04,CUST1558,Hyderabad,Electronics,Wireless Headphones,3,5500,16500,Debit Card,New
+ORD10507,2023-02-04,CUST1151,Delhi,Electronics,Smartphone,2,45000,90000,Net Banking,Loyal
+ORD10796,2023-02-05,CUST1067,Mumbai,Electronics,Smartphone,1,45000,45000,Cash on Delivery,Returning
+ORD10003,2023-02-05,CUST1271,Bengaluru,Electronics,Smart Watch,2,7500,15000,Debit Card,New
+ORD10915,2023-02-05,CUST1526,Hyderabad,Electronics,Smartphone,2,45000,90000,UPI,Returning
+ORD10874,2023-02-05,CUST1642,Jaipur,Home & Kitchen,Air Fryer,1,8500,8500,Cash on Delivery,New
+ORD10298,2023-02-06,CUST1512,Bengaluru,Sports,Running Shoes,2,4800,9600,Credit Card,Returning
+ORD11175,2023-02-07,CUST1268,Bengaluru,Home & Kitchen,Air Fryer,3,8500,25500,Debit Card,New
+ORD10210,2023-02-07,CUST1201,Delhi,Home & Kitchen,Coffee Maker,3,6200,18600,Debit Card,Returning
+ORD10639,2023-02-08,CUST1217,Pune,Electronics,Wireless Headphones,3,5500,16500,Credit Card,New
+ORD10022,2023-02-08,CUST1192,Kolkata,Electronics,Smartphone,3,45000,135000,Debit Card,Loyal
+ORD10332,2023-02-08,CUST1386,Kolkata,Home & Kitchen,Coffee Maker,2,6200,12400,Net Banking,Loyal
+ORD10091,2023-02-08,CUST1648,Jaipur,Sports,Running Shoes,3,4800,14400,Debit Card,Returning
+ORD10790,2023-02-08,CUST1145,Pune,Electronics,Premium Laptop,2,81000,162000,Cash on Delivery,New
+ORD10268,2023-02-08,CUST1398,Delhi,Sports,Running Shoes,3,4800,14400,Debit Card,New
+ORD10543,2023-02-09,CUST1500,Delhi,Beauty,Skincare Kit,2,3200,6400,Credit Card,Loyal
+ORD11059,2023-02-09,CUST1286,Delhi,Electronics,Smart Watch,2,7500,15000,UPI,Returning
+ORD10232,2023-02-09,CUST1144,Mumbai,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,New
+ORD10205,2023-02-09,CUST1610,Chennai,Electronics,Smart Watch,3,7500,22500,UPI,New
+ORD10558,2023-02-10,CUST1126,Pune,Electronics,Smart Watch,2,7500,15000,Credit Card,New
+ORD10455,2023-02-10,CUST1605,Chennai,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,New
+ORD10417,2023-02-10,CUST1612,Chennai,Sports,Running Shoes,3,4800,14400,Net Banking,Returning
+ORD10020,2023-02-11,CUST1414,Delhi,Home & Kitchen,Air Fryer,2,8500,17000,UPI,Loyal
+ORD11119,2023-02-11,CUST1514,Pune,Sports,Yoga Mat,2,1800,3600,UPI,Returning
+ORD11117,2023-02-11,CUST1285,Chennai,Electronics,Smartphone,4,45000,180000,Credit Card,New
+ORD11032,2023-02-12,CUST1501,Bengaluru,Electronics,Wireless Headphones,1,5500,5500,Net Banking,New
+ORD11154,2023-02-12,CUST1109,Bengaluru,Sports,Yoga Mat,2,1800,3600,UPI,New
+ORD10747,2023-02-12,CUST1239,Jaipur,Electronics,Smart Watch,3,7500,22500,UPI,Loyal
+ORD10605,2023-02-13,CUST1373,Delhi,Sports,Yoga Mat,2,1800,3600,Net Banking,Returning
+ORD10249,2023-02-14,CUST1054,Mumbai,Electronics,Premium Laptop,3,81000,243000,Credit Card,Returning
+ORD10260,2023-02-14,CUST1510,Chennai,Electronics,Wireless Headphones,4,5500,22000,Net Banking,Returning
+ORD10381,2023-02-15,CUST1474,Jaipur,Sports,Running Shoes,4,4800,19200,UPI,Loyal
+ORD10278,2023-02-15,CUST1470,Chennai,Sports,Running Shoes,2,4800,9600,Credit Card,New
+ORD10419,2023-02-15,CUST1254,Delhi,Electronics,Smart Watch,3,7500,22500,UPI,Returning
+ORD10058,2023-02-16,CUST1035,Pune,Beauty,Skincare Kit,2,3200,6400,Credit Card,New
+ORD10171,2023-02-16,CUST1472,Mumbai,Electronics,Smart Watch,1,7500,7500,Credit Card,New
+ORD10803,2023-02-16,CUST1470,Hyderabad,Electronics,Premium Laptop,2,81000,162000,UPI,New
+ORD11128,2023-02-17,CUST1226,Hyderabad,Electronics,Premium Laptop,2,81000,162000,Debit Card,New
+ORD10837,2023-02-18,CUST1468,Jaipur,Sports,Running Shoes,2,4800,9600,Credit Card,Loyal
+ORD11184,2023-02-18,CUST1292,Bengaluru,Electronics,Smart Watch,2,7500,15000,UPI,Returning
+ORD10977,2023-02-18,CUST1302,Chennai,Home & Kitchen,Air Fryer,1,8500,8500,UPI,New
+ORD10375,2023-02-19,CUST1636,Pune,Fashion,Kurta Set,3,2600,7800,Credit Card,Returning
+ORD10523,2023-02-19,CUST1074,Chennai,Electronics,Smartphone,1,45000,45000,Credit Card,Returning
+ORD10895,2023-02-19,CUST1320,Jaipur,Electronics,Wireless Headphones,1,5500,5500,Credit Card,Loyal
+ORD11167,2023-02-20,CUST1599,Delhi,Sports,Running Shoes,1,4800,4800,Credit Card,Loyal
+ORD10761,2023-02-20,CUST1056,Kolkata,Sports,Yoga Mat,3,1800,5400,UPI,Returning
+ORD10769,2023-02-21,CUST1526,Delhi,Electronics,Smartphone,2,45000,90000,UPI,New
+ORD11109,2023-02-21,CUST1007,Bengaluru,Electronics,Smartphone,1,45000,45000,Cash on Delivery,Returning
+ORD10681,2023-02-22,CUST1207,Bengaluru,Home & Kitchen,Air Fryer,2,8500,17000,UPI,Loyal
+ORD10170,2023-02-23,CUST1608,Bengaluru,Sports,Running Shoes,1,4800,4800,Credit Card,New
+ORD10924,2023-02-24,CUST1616,Bengaluru,Electronics,Smart Watch,1,7500,7500,UPI,Loyal
+ORD10485,2023-02-24,CUST1397,Mumbai,Sports,Yoga Mat,1,1800,1800,Credit Card,New
+ORD10037,2023-02-26,CUST1244,Pune,Home & Kitchen,Air Fryer,2,8500,17000,UPI,New
+ORD10898,2023-02-27,CUST1229,Mumbai,Electronics,Smartphone,2,45000,90000,Debit Card,Returning
+ORD10326,2023-02-27,CUST1323,Hyderabad,Sports,Yoga Mat,2,1800,3600,UPI,New
+ORD10354,2023-02-27,CUST1190,Chennai,Electronics,Premium Laptop,2,81000,162000,Debit Card,Returning
+ORD10055,2023-02-28,CUST1455,Delhi,Sports,Yoga Mat,2,1800,3600,Cash on Delivery,New
+ORD10622,2023-02-28,CUST1390,Mumbai,Electronics,Smartphone,3,45000,135000,Cash on Delivery,New
+ORD10503,2023-02-28,CUST1025,Jaipur,Electronics,Wireless Headphones,1,5500,5500,Debit Card,New
+ORD10244,2023-02-28,CUST1099,Delhi,Electronics,Smartphone,3,45000,135000,UPI,Returning
+ORD10243,2023-02-28,CUST1233,Bengaluru,Electronics,Smartphone,1,45000,45000,UPI,New
+ORD10153,2023-02-28,CUST1231,Bengaluru,Electronics,Smart Watch,1,7500,7500,UPI,Returning
+ORD11127,2023-03-01,CUST1256,Hyderabad,Electronics,Smart Watch,1,7500,7500,Net Banking,New
+ORD11035,2023-03-01,CUST1285,Pune,Electronics,Smartphone,1,45000,45000,Net Banking,New
+ORD10295,2023-03-01,CUST1547,Chennai,Electronics,Smart Watch,2,7500,15000,UPI,New
+ORD10828,2023-03-01,CUST1137,Mumbai,Sports,Yoga Mat,2,1800,3600,UPI,New
+ORD10178,2023-03-02,CUST1510,Hyderabad,Home & Kitchen,Air Fryer,2,8500,17000,Debit Card,Loyal
+ORD10139,2023-03-02,CUST1086,Delhi,Electronics,Smart Watch,4,7500,30000,UPI,Loyal
+ORD11072,2023-03-03,CUST1644,Mumbai,Beauty,Skincare Kit,1,3200,3200,Net Banking,New
+ORD10181,2023-03-03,CUST1113,Pune,Fashion,Kurta Set,2,2600,5200,Credit Card,New
+ORD10146,2023-03-03,CUST1556,Delhi,Beauty,Skincare Kit,3,3200,9600,Net Banking,New
+ORD10157,2023-03-04,CUST1377,Mumbai,Beauty,Skincare Kit,3,3200,9600,Credit Card,Returning
+ORD11069,2023-03-04,CUST1113,Chennai,Beauty,Skincare Kit,1,3200,3200,UPI,Loyal
+ORD10688,2023-03-04,CUST1306,Delhi,Home & Kitchen,Air Fryer,3,8500,25500,Cash on Delivery,Returning
+ORD10397,2023-03-05,CUST1189,Mumbai,Sports,Running Shoes,3,4800,14400,UPI,Returning
+ORD10596,2023-03-05,CUST1513,Chennai,Electronics,Premium Laptop,3,81000,243000,UPI,Loyal
+ORD10123,2023-03-06,CUST1015,Mumbai,Sports,Running Shoes,2,4800,9600,Credit Card,Returning
+ORD11090,2023-03-06,CUST1239,Jaipur,Electronics,Smart Watch,1,7500,7500,Net Banking,Returning
+ORD10571,2023-03-07,CUST1505,Jaipur,Electronics,Smartphone,2,45000,90000,Credit Card,Loyal
+ORD10531,2023-03-07,CUST1393,Jaipur,Electronics,Smart Watch,1,7500,7500,UPI,Returning
+ORD10992,2023-03-07,CUST1604,Hyderabad,Electronics,Smartphone,3,45000,135000,Credit Card,Returning
+ORD10957,2023-03-07,CUST1015,Jaipur,Electronics,Smart Watch,2,7500,15000,Credit Card,New
+ORD10896,2023-03-08,CUST1572,Mumbai,Home & Kitchen,Air Fryer,2,8500,17000,UPI,Loyal
+ORD10986,2023-03-08,CUST1460,Hyderabad,Electronics,Smart Watch,2,7500,15000,UPI,New
+ORD10823,2023-03-09,CUST1516,Kolkata,Electronics,Wireless Headphones,3,5500,16500,Debit Card,New
+ORD11017,2023-03-09,CUST1244,Delhi,Beauty,Skincare Kit,2,3200,6400,UPI,New
+ORD10867,2023-03-09,CUST1259,Mumbai,Electronics,Wireless Headphones,2,5500,11000,UPI,Returning
+ORD10191,2023-03-09,CUST1385,Pune,Electronics,Smart Watch,2,7500,15000,Credit Card,New
+ORD11147,2023-03-10,CUST1201,Delhi,Sports,Yoga Mat,3,1800,5400,UPI,New
+ORD10683,2023-03-10,CUST1578,Kolkata,Electronics,Smartphone,3,45000,135000,Net Banking,Loyal
+ORD10882,2023-03-11,CUST1606,Jaipur,Home & Kitchen,Coffee Maker,2,6200,12400,Net Banking,New
+ORD10792,2023-03-12,CUST1212,Jaipur,Electronics,Smartphone,2,45000,90000,Credit Card,Loyal
+ORD10154,2023-03-13,CUST1190,Jaipur,Home & Kitchen,Air Fryer,3,8500,25500,Debit Card,Loyal
+ORD10366,2023-03-13,CUST1572,Jaipur,Electronics,Premium Laptop,2,81000,162000,UPI,Loyal
+ORD10816,2023-03-13,CUST1377,Jaipur,Beauty,Skincare Kit,2,3200,6400,Credit Card,New
+ORD10400,2023-03-13,CUST1247,Jaipur,Electronics,Smart Watch,2,7500,15000,Net Banking,Returning
+ORD10012,2023-03-14,CUST1459,Mumbai,Electronics,Smartphone,3,45000,135000,Debit Card,New
+ORD10695,2023-03-14,CUST1166,Hyderabad,Beauty,Skincare Kit,1,3200,3200,Cash on Delivery,Returning
+ORD10990,2023-03-14,CUST1127,Hyderabad,Electronics,Wireless Headphones,2,5500,11000,Credit Card,Loyal
+ORD10689,2023-03-14,CUST1098,Chennai,Beauty,Skincare Kit,2,3200,6400,Cash on Delivery,New
+ORD10291,2023-03-15,CUST1284,Pune,Electronics,Wireless Headphones,3,5500,16500,Net Banking,New
+ORD10789,2023-03-15,CUST1537,Delhi,Fashion,Kurta Set,2,2600,5200,UPI,Loyal
+ORD10336,2023-03-16,CUST1176,Jaipur,Home & Kitchen,Air Fryer,3,8500,25500,Debit Card,New
+ORD10418,2023-03-17,CUST1289,Chennai,Electronics,Smartphone,3,45000,135000,Credit Card,New
+ORD10717,2023-03-17,CUST1095,Delhi,Fashion,Kurta Set,2,2600,5200,Cash on Delivery,New
+ORD10672,2023-03-17,CUST1118,Delhi,Sports,Running Shoes,1,4800,4800,Credit Card,New
+ORD10273,2023-03-18,CUST1195,Bengaluru,Electronics,Smartphone,1,45000,45000,UPI,New
+ORD10850,2023-03-18,CUST1173,Chennai,Home & Kitchen,Coffee Maker,3,6200,18600,UPI,Returning
+ORD10434,2023-03-18,CUST1160,Mumbai,Electronics,Wireless Headphones,2,5500,11000,Credit Card,Returning
+ORD10781,2023-03-18,CUST1485,Pune,Electronics,Smart Watch,2,7500,15000,Net Banking,New
+ORD10849,2023-03-19,CUST1435,Bengaluru,Beauty,Skincare Kit,3,3200,9600,Credit Card,Returning
+ORD11187,2023-03-19,CUST1149,Chennai,Sports,Yoga Mat,2,1800,3600,UPI,Returning
+ORD10325,2023-03-20,CUST1570,Chennai,Fashion,Kurta Set,2,2600,5200,Credit Card,Loyal
+ORD11016,2023-03-20,CUST1575,Chennai,Fashion,Kurta Set,2,2600,5200,Debit Card,Returning
+ORD10372,2023-03-20,CUST1047,Chennai,Electronics,Wireless Headphones,3,5500,16500,Debit Card,New
+ORD11086,2023-03-20,CUST1313,Chennai,Sports,Running Shoes,1,4800,4800,Credit Card,Returning
+ORD10583,2023-03-21,CUST1213,Delhi,Sports,Running Shoes,4,4800,19200,Credit Card,Returning
+ORD10042,2023-03-21,CUST1021,Pune,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,New
+ORD10421,2023-03-21,CUST1023,Chennai,Home & Kitchen,Air Fryer,2,8500,17000,Credit Card,Loyal
+ORD10219,2023-03-22,CUST1147,Bengaluru,Sports,Yoga Mat,1,1800,1800,Cash on Delivery,New
+ORD10047,2023-03-22,CUST1316,Bengaluru,Sports,Running Shoes,2,4800,9600,Debit Card,Returning
+ORD10075,2023-03-23,CUST1462,Pune,Fashion,Kurta Set,1,2600,2600,UPI,Returning
+ORD11112,2023-03-23,CUST1085,Kolkata,Electronics,Wireless Headphones,2,5500,11000,Debit Card,Returning
+ORD10705,2023-03-23,CUST1401,Jaipur,Electronics,Wireless Headphones,2,5500,11000,Debit Card,New
+ORD10269,2023-03-23,CUST1277,Hyderabad,Sports,Running Shoes,4,4800,19200,UPI,Returning
+ORD10496,2023-03-23,CUST1564,Jaipur,Electronics,Smartphone,2,45000,90000,Cash on Delivery,Returning
+ORD11046,2023-03-24,CUST1063,Delhi,Electronics,Smartphone,3,45000,135000,Cash on Delivery,Returning
+ORD10340,2023-03-25,CUST1408,Mumbai,Beauty,Skincare Kit,4,3200,12800,UPI,Returning
+ORD10467,2023-03-25,CUST1420,Mumbai,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD10350,2023-03-25,CUST1092,Jaipur,Beauty,Skincare Kit,2,3200,6400,Cash on Delivery,Loyal
+ORD10797,2023-03-25,CUST1233,Jaipur,Home & Kitchen,Air Fryer,1,8500,8500,Cash on Delivery,New
+ORD10856,2023-03-26,CUST1225,Chennai,Home & Kitchen,Coffee Maker,3,6200,18600,Net Banking,New
+ORD10732,2023-03-26,CUST1534,Chennai,Fashion,Kurta Set,2,2600,5200,Debit Card,New
+ORD10064,2023-03-27,CUST1390,Chennai,Electronics,Smartphone,2,45000,90000,Credit Card,New
+ORD10659,2023-03-27,CUST1001,Delhi,Electronics,Smartphone,1,45000,45000,Cash on Delivery,New
+ORD10423,2023-03-27,CUST1100,Hyderabad,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD11079,2023-03-27,CUST1087,Hyderabad,Electronics,Smart Watch,3,7500,22500,UPI,New
+ORD10551,2023-03-28,CUST1415,Hyderabad,Electronics,Premium Laptop,2,81000,162000,Credit Card,New
+ORD11153,2023-03-28,CUST1029,Chennai,Electronics,Wireless Headphones,2,5500,11000,Net Banking,New
+ORD11148,2023-03-28,CUST1278,Pune,Sports,Yoga Mat,3,1800,5400,Debit Card,Loyal
+ORD10478,2023-03-28,CUST1525,Mumbai,Fashion,Kurta Set,2,2600,5200,Credit Card,New
+ORD10416,2023-03-29,CUST1551,Delhi,Electronics,Wireless Headphones,2,5500,11000,UPI,New
+ORD10713,2023-03-30,CUST1126,Kolkata,Home & Kitchen,Coffee Maker,4,6200,24800,UPI,Returning
+ORD10189,2023-03-30,CUST1566,Chennai,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,Returning
+ORD10692,2023-03-30,CUST1447,Bengaluru,Home & Kitchen,Air Fryer,2,8500,17000,Credit Card,Returning
+ORD10214,2023-03-31,CUST1464,Hyderabad,Sports,Yoga Mat,2,1800,3600,UPI,New
+ORD10685,2023-03-31,CUST1435,Jaipur,Electronics,Smartphone,2,45000,90000,UPI,New
+ORD10783,2023-03-31,CUST1039,Kolkata,Beauty,Skincare Kit,3,3200,9600,UPI,New
+ORD10441,2023-03-31,CUST1577,Jaipur,Electronics,Wireless Headphones,2,5500,11000,UPI,Returning
+ORD10346,2023-04-02,CUST1512,Hyderabad,Beauty,Skincare Kit,1,3200,3200,UPI,Returning
+ORD10424,2023-04-02,CUST1180,Mumbai,Beauty,Skincare Kit,1,3200,3200,Debit Card,Loyal
+ORD11076,2023-04-02,CUST1458,Delhi,Fashion,Kurta Set,2,2600,5200,Cash on Delivery,Returning
+ORD11023,2023-04-02,CUST1475,Delhi,Beauty,Skincare Kit,2,3200,6400,Net Banking,Loyal
+ORD10584,2023-04-03,CUST1203,Hyderabad,Electronics,Smart Watch,2,7500,15000,Debit Card,Returning
+ORD10369,2023-04-03,CUST1103,Kolkata,Home & Kitchen,Coffee Maker,1,6200,6200,Credit Card,New
+ORD10508,2023-04-03,CUST1144,Mumbai,Sports,Running Shoes,2,4800,9600,UPI,Returning
+ORD10721,2023-04-03,CUST1281,Delhi,Fashion,Kurta Set,2,2600,5200,UPI,New
+ORD11005,2023-04-05,CUST1182,Delhi,Fashion,Kurta Set,1,2600,2600,UPI,Returning
+ORD10405,2023-04-05,CUST1285,Mumbai,Electronics,Premium Laptop,2,81000,162000,Credit Card,Returning
+ORD10108,2023-04-06,CUST1048,Chennai,Fashion,Kurta Set,3,2600,7800,Credit Card,New
+ORD11022,2023-04-06,CUST1210,Chennai,Fashion,Kurta Set,1,2600,2600,Credit Card,Returning
+ORD11055,2023-04-07,CUST1285,Chennai,Electronics,Premium Laptop,3,81000,243000,Debit Card,New
+ORD11130,2023-04-07,CUST1500,Jaipur,Beauty,Skincare Kit,3,3200,9600,Debit Card,Returning
+ORD10193,2023-04-08,CUST1638,Bengaluru,Electronics,Wireless Headphones,2,5500,11000,Net Banking,New
+ORD10700,2023-04-08,CUST1563,Bengaluru,Sports,Yoga Mat,1,1800,1800,UPI,Loyal
+ORD11047,2023-04-09,CUST1360,Chennai,Beauty,Skincare Kit,2,3200,6400,Net Banking,Loyal
+ORD10175,2023-04-09,CUST1442,Mumbai,Home & Kitchen,Coffee Maker,3,6200,18600,UPI,Returning
+ORD10827,2023-04-10,CUST1607,Hyderabad,Electronics,Wireless Headphones,1,5500,5500,Debit Card,Returning
+ORD10549,2023-04-10,CUST1070,Mumbai,Sports,Running Shoes,3,4800,14400,Cash on Delivery,Returning
+ORD10973,2023-04-11,CUST1550,Delhi,Sports,Yoga Mat,2,1800,3600,Net Banking,Returning
+ORD11061,2023-04-11,CUST1424,Delhi,Electronics,Smart Watch,4,7500,30000,Debit Card,New
+ORD11149,2023-04-11,CUST1235,Hyderabad,Home & Kitchen,Air Fryer,2,8500,17000,UPI,New
+ORD10032,2023-04-11,CUST1511,Bengaluru,Sports,Running Shoes,2,4800,9600,Cash on Delivery,Returning
+ORD10412,2023-04-12,CUST1218,Pune,Home & Kitchen,Air Fryer,2,8500,17000,UPI,New
+ORD10028,2023-04-12,CUST1253,Delhi,Sports,Yoga Mat,2,1800,3600,UPI,New
+ORD10725,2023-04-12,CUST1061,Chennai,Fashion,Kurta Set,2,2600,5200,Debit Card,Returning
+ORD10906,2023-04-12,CUST1574,Delhi,Electronics,Premium Laptop,2,81000,162000,Net Banking,New
+ORD10703,2023-04-12,CUST1138,Mumbai,Electronics,Smart Watch,3,7500,22500,UPI,New
+ORD10869,2023-04-12,CUST1261,Chennai,Home & Kitchen,Air Fryer,2,8500,17000,Net Banking,New
+ORD10701,2023-04-12,CUST1081,Pune,Sports,Running Shoes,2,4800,9600,Net Banking,Loyal
+ORD11058,2023-04-13,CUST1477,Mumbai,Electronics,Smartphone,2,45000,90000,UPI,Returning
+ORD10437,2023-04-13,CUST1545,Kolkata,Fashion,Kurta Set,2,2600,5200,Credit Card,New
+ORD10077,2023-04-13,CUST1296,Hyderabad,Sports,Yoga Mat,2,1800,3600,UPI,Returning
+ORD10019,2023-04-14,CUST1492,Pune,Electronics,Premium Laptop,2,81000,162000,Credit Card,Loyal
+ORD10935,2023-04-14,CUST1015,Pune,Electronics,Premium Laptop,4,81000,324000,Debit Card,New
+ORD11121,2023-04-15,CUST1386,Mumbai,Home & Kitchen,Coffee Maker,1,6200,6200,Credit Card,New
+ORD10195,2023-04-15,CUST1053,Delhi,Sports,Running Shoes,1,4800,4800,Net Banking,Loyal
+ORD10526,2023-04-15,CUST1230,Hyderabad,Fashion,Kurta Set,2,2600,5200,UPI,Loyal
+ORD11188,2023-04-15,CUST1296,Chennai,Sports,Yoga Mat,3,1800,5400,Net Banking,New
+ORD10445,2023-04-16,CUST1556,Hyderabad,Home & Kitchen,Air Fryer,1,8500,8500,Debit Card,New
+ORD10921,2023-04-16,CUST1145,Delhi,Electronics,Wireless Headphones,2,5500,11000,Cash on Delivery,New
+ORD10777,2023-04-16,CUST1506,Pune,Beauty,Skincare Kit,4,3200,12800,UPI,Returning
+ORD10599,2023-04-17,CUST1259,Pune,Electronics,Wireless Headphones,1,5500,5500,Debit Card,Loyal
+ORD10753,2023-04-17,CUST1337,Mumbai,Beauty,Skincare Kit,2,3200,6400,UPI,Loyal
+ORD10161,2023-04-17,CUST1259,Delhi,Electronics,Smartphone,2,45000,90000,Cash on Delivery,New
+ORD10098,2023-04-18,CUST1419,Delhi,Electronics,Smart Watch,3,7500,22500,Net Banking,New
+ORD10838,2023-04-18,CUST1075,Bengaluru,Home & Kitchen,Air Fryer,2,8500,17000,Net Banking,Returning
+ORD10609,2023-04-18,CUST1090,Chennai,Sports,Yoga Mat,2,1800,3600,Net Banking,New
+ORD10026,2023-04-18,CUST1314,Bengaluru,Home & Kitchen,Coffee Maker,3,6200,18600,Debit Card,Loyal
+ORD10082,2023-04-18,CUST1380,Mumbai,Electronics,Premium Laptop,1,81000,81000,Net Banking,Returning
+ORD10873,2023-04-19,CUST1168,Kolkata,Electronics,Wireless Headphones,3,5500,16500,Cash on Delivery,Returning
+ORD11008,2023-04-20,CUST1371,Delhi,Electronics,Smart Watch,2,7500,15000,UPI,Returning
+ORD10728,2023-04-20,CUST1403,Pune,Fashion,Kurta Set,3,2600,7800,Credit Card,New
+ORD10561,2023-04-21,CUST1220,Pune,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,Loyal
+ORD11176,2023-04-21,CUST1455,Chennai,Sports,Running Shoes,2,4800,9600,Credit Card,New
+ORD11110,2023-04-22,CUST1330,Mumbai,Electronics,Wireless Headphones,2,5500,11000,Cash on Delivery,Loyal
+ORD10280,2023-04-23,CUST1022,Bengaluru,Electronics,Smartphone,1,45000,45000,UPI,Returning
+ORD10955,2023-04-24,CUST1228,Mumbai,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD10220,2023-04-24,CUST1148,Kolkata,Home & Kitchen,Coffee Maker,2,6200,12400,Cash on Delivery,Returning
+ORD10666,2023-04-24,CUST1095,Pune,Electronics,Wireless Headphones,3,5500,16500,UPI,New
+ORD10934,2023-04-25,CUST1500,Hyderabad,Home & Kitchen,Coffee Maker,2,6200,12400,Debit Card,Loyal
+ORD10226,2023-04-25,CUST1473,Kolkata,Sports,Yoga Mat,2,1800,3600,Debit Card,New
+ORD10435,2023-04-26,CUST1475,Mumbai,Beauty,Skincare Kit,3,3200,9600,Credit Card,Returning
+ORD11070,2023-04-26,CUST1114,Pune,Electronics,Smartphone,2,45000,90000,Debit Card,New
+ORD10736,2023-04-27,CUST1233,Bengaluru,Home & Kitchen,Air Fryer,2,8500,17000,UPI,New
+ORD10068,2023-04-27,CUST1402,Delhi,Electronics,Smart Watch,2,7500,15000,Credit Card,Returning
+ORD11014,2023-04-27,CUST1313,Kolkata,Beauty,Skincare Kit,1,3200,3200,UPI,New
+ORD10394,2023-04-27,CUST1488,Jaipur,Sports,Yoga Mat,4,1800,7200,Net Banking,New
+ORD10805,2023-04-28,CUST1623,Jaipur,Sports,Yoga Mat,3,1800,5400,UPI,Returning
+ORD10581,2023-04-28,CUST1149,Jaipur,Electronics,Wireless Headphones,3,5500,16500,Net Banking,New
+ORD10936,2023-04-28,CUST1623,Jaipur,Fashion,Kurta Set,1,2600,2600,Credit Card,Loyal
+ORD10490,2023-04-29,CUST1445,Jaipur,Home & Kitchen,Air Fryer,2,8500,17000,Debit Card,Loyal
+ORD10841,2023-04-29,CUST1118,Hyderabad,Sports,Running Shoes,3,4800,14400,Credit Card,Loyal
+ORD10618,2023-04-29,CUST1461,Bengaluru,Electronics,Smartphone,2,45000,90000,UPI,Returning
+ORD10664,2023-04-29,CUST1034,Bengaluru,Electronics,Smart Watch,2,7500,15000,Net Banking,New
+ORD10188,2023-04-30,CUST1220,Delhi,Electronics,Wireless Headphones,2,5500,11000,Cash on Delivery,Returning
+ORD10604,2023-04-30,CUST1408,Chennai,Home & Kitchen,Coffee Maker,3,6200,18600,UPI,Loyal
+ORD10310,2023-04-30,CUST1349,Jaipur,Electronics,Smartphone,3,45000,135000,UPI,New
+ORD11124,2023-04-30,CUST1396,Delhi,Electronics,Premium Laptop,3,81000,243000,Net Banking,New
+ORD10598,2023-05-01,CUST1566,Kolkata,Sports,Yoga Mat,1,1800,1800,UPI,Loyal
+ORD10813,2023-05-01,CUST1320,Bengaluru,Fashion,Kurta Set,2,2600,5200,Credit Card,Returning
+ORD10923,2023-05-01,CUST1503,Pune,Home & Kitchen,Coffee Maker,2,6200,12400,Cash on Delivery,New
+ORD10942,2023-05-01,CUST1550,Hyderabad,Home & Kitchen,Air Fryer,2,8500,17000,Debit Card,Returning
+ORD10483,2023-05-02,CUST1596,Kolkata,Home & Kitchen,Air Fryer,3,8500,25500,UPI,New
+ORD10443,2023-05-02,CUST1168,Mumbai,Beauty,Skincare Kit,3,3200,9600,Debit Card,New
+ORD10449,2023-05-03,CUST1607,Hyderabad,Electronics,Premium Laptop,2,81000,162000,Net Banking,New
+ORD10209,2023-05-04,CUST1609,Bengaluru,Sports,Yoga Mat,2,1800,3600,Debit Card,Returning
+ORD11066,2023-05-04,CUST1175,Chennai,Fashion,Kurta Set,2,2600,5200,UPI,Loyal
+ORD10757,2023-05-04,CUST1625,Delhi,Electronics,Smart Watch,2,7500,15000,Net Banking,Returning
+ORD10860,2023-05-05,CUST1559,Kolkata,Sports,Running Shoes,2,4800,9600,UPI,Loyal
+ORD10646,2023-05-06,CUST1405,Delhi,Home & Kitchen,Coffee Maker,2,6200,12400,Credit Card,New
+ORD10472,2023-05-07,CUST1099,Jaipur,Beauty,Skincare Kit,4,3200,12800,Cash on Delivery,Returning
+ORD11021,2023-05-08,CUST1386,Chennai,Fashion,Kurta Set,4,2600,10400,Net Banking,Loyal
+ORD11125,2023-05-09,CUST1532,Mumbai,Electronics,Smart Watch,3,7500,22500,Net Banking,New
+ORD10653,2023-05-09,CUST1458,Mumbai,Home & Kitchen,Air Fryer,2,8500,17000,Credit Card,Returning
+ORD10710,2023-05-09,CUST1053,Delhi,Beauty,Skincare Kit,4,3200,12800,Credit Card,Returning
+ORD10016,2023-05-09,CUST1131,Jaipur,Electronics,Smartphone,2,45000,90000,UPI,Returning
+ORD11126,2023-05-10,CUST1261,Jaipur,Beauty,Skincare Kit,2,3200,6400,UPI,New
+ORD11041,2023-05-10,CUST1361,Bengaluru,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,New
+ORD10612,2023-05-10,CUST1178,Delhi,Electronics,Smart Watch,3,7500,22500,UPI,Returning
+ORD11034,2023-05-10,CUST1177,Kolkata,Electronics,Wireless Headphones,1,5500,5500,UPI,Returning
+ORD10902,2023-05-10,CUST1005,Chennai,Sports,Running Shoes,2,4800,9600,Cash on Delivery,New
+ORD10338,2023-05-10,CUST1477,Bengaluru,Electronics,Premium Laptop,2,81000,162000,Credit Card,New
+ORD10994,2023-05-10,CUST1051,Delhi,Sports,Running Shoes,2,4800,9600,UPI,Returning
+ORD10504,2023-05-11,CUST1469,Bengaluru,Sports,Running Shoes,3,4800,14400,Credit Card,Loyal
+ORD10086,2023-05-11,CUST1015,Jaipur,Home & Kitchen,Air Fryer,2,8500,17000,Cash on Delivery,Returning
+ORD10540,2023-05-11,CUST1496,Hyderabad,Fashion,Kurta Set,3,2600,7800,Credit Card,New
+ORD10782,2023-05-12,CUST1028,Jaipur,Sports,Running Shoes,1,4800,4800,UPI,Returning
+ORD10702,2023-05-12,CUST1133,Chennai,Fashion,Kurta Set,1,2600,2600,UPI,New
+ORD11158,2023-05-13,CUST1128,Delhi,Beauty,Skincare Kit,1,3200,3200,Debit Card,Returning
+ORD11080,2023-05-13,CUST1055,Jaipur,Fashion,Kurta Set,4,2600,10400,UPI,New
+ORD10258,2023-05-13,CUST1227,Mumbai,Electronics,Wireless Headphones,2,5500,11000,Net Banking,Returning
+ORD10324,2023-05-14,CUST1566,Kolkata,Home & Kitchen,Air Fryer,2,8500,17000,Net Banking,Loyal
+ORD10985,2023-05-14,CUST1616,Hyderabad,Sports,Running Shoes,4,4800,19200,Debit Card,New
+ORD11180,2023-05-16,CUST1558,Pune,Sports,Yoga Mat,1,1800,1800,Cash on Delivery,New
+ORD10927,2023-05-16,CUST1198,Chennai,Fashion,Kurta Set,2,2600,5200,Credit Card,Loyal
+ORD10669,2023-05-16,CUST1154,Bengaluru,Beauty,Skincare Kit,3,3200,9600,Credit Card,Returning
+ORD10880,2023-05-16,CUST1550,Jaipur,Electronics,Smartphone,3,45000,135000,Debit Card,Loyal
+ORD10775,2023-05-16,CUST1508,Pune,Fashion,Kurta Set,2,2600,5200,UPI,Returning
+ORD10199,2023-05-17,CUST1203,Chennai,Electronics,Smartphone,2,45000,90000,UPI,Returning
+ORD10070,2023-05-17,CUST1162,Jaipur,Sports,Running Shoes,2,4800,9600,Cash on Delivery,Returning
+ORD11088,2023-05-18,CUST1328,Hyderabad,Electronics,Smart Watch,1,7500,7500,Cash on Delivery,Returning
+ORD11174,2023-05-18,CUST1610,Delhi,Electronics,Smartphone,2,45000,90000,Net Banking,New
+ORD10848,2023-05-18,CUST1026,Delhi,Sports,Yoga Mat,3,1800,5400,Net Banking,Returning
+ORD11197,2023-05-20,CUST1623,Mumbai,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,Returning
+ORD10136,2023-05-20,CUST1525,Jaipur,Electronics,Smart Watch,3,7500,22500,Debit Card,New
+ORD11013,2023-05-21,CUST1436,Jaipur,Home & Kitchen,Coffee Maker,4,6200,24800,Debit Card,New
+ORD10680,2023-05-22,CUST1303,Bengaluru,Electronics,Wireless Headphones,1,5500,5500,UPI,Returning
+ORD10126,2023-05-22,CUST1575,Mumbai,Electronics,Smartphone,2,45000,90000,Debit Card,New
+ORD10719,2023-05-23,CUST1520,Bengaluru,Fashion,Kurta Set,2,2600,5200,Credit Card,New
+ORD10845,2023-05-23,CUST1441,Bengaluru,Fashion,Kurta Set,1,2600,2600,Cash on Delivery,New
+ORD10970,2023-05-23,CUST1069,Chennai,Electronics,Smartphone,2,45000,90000,Credit Card,New
+ORD10444,2023-05-23,CUST1043,Delhi,Sports,Running Shoes,2,4800,9600,Cash on Delivery,Returning
+ORD10054,2023-05-23,CUST1367,Pune,Electronics,Smartphone,3,45000,135000,UPI,Loyal
+ORD10776,2023-05-24,CUST1274,Pune,Home & Kitchen,Coffee Maker,2,6200,12400,Cash on Delivery,Loyal
+ORD10929,2023-05-24,CUST1579,Kolkata,Beauty,Skincare Kit,3,3200,9600,UPI,Loyal
+ORD10926,2023-05-25,CUST1039,Delhi,Electronics,Smart Watch,2,7500,15000,UPI,Returning
+ORD10368,2023-05-25,CUST1005,Delhi,Home & Kitchen,Coffee Maker,1,6200,6200,Credit Card,Returning
+ORD10568,2023-05-25,CUST1387,Chennai,Electronics,Smart Watch,3,7500,22500,Debit Card,New
+ORD10182,2023-05-25,CUST1613,Hyderabad,Sports,Running Shoes,2,4800,9600,Cash on Delivery,New
+ORD10832,2023-05-26,CUST1229,Bengaluru,Electronics,Smartphone,3,45000,135000,UPI,New
+ORD10129,2023-05-26,CUST1096,Bengaluru,Sports,Yoga Mat,2,1800,3600,UPI,Loyal
+ORD10857,2023-05-26,CUST1532,Jaipur,Electronics,Wireless Headphones,1,5500,5500,UPI,New
+ORD10779,2023-05-26,CUST1192,Hyderabad,Fashion,Kurta Set,3,2600,7800,Debit Card,Returning
+ORD11028,2023-05-26,CUST1179,Kolkata,Electronics,Wireless Headphones,2,5500,11000,Credit Card,New
+ORD10352,2023-05-27,CUST1051,Delhi,Electronics,Smart Watch,4,7500,30000,Credit Card,New
+ORD10678,2023-05-27,CUST1401,Bengaluru,Home & Kitchen,Coffee Maker,3,6200,18600,Debit Card,Returning
+ORD10484,2023-05-27,CUST1342,Mumbai,Electronics,Smart Watch,1,7500,7500,Net Banking,Returning
+ORD10238,2023-05-27,CUST1254,Hyderabad,Home & Kitchen,Air Fryer,2,8500,17000,Credit Card,New
+ORD10005,2023-05-28,CUST1072,Hyderabad,Electronics,Smartphone,3,45000,135000,Net Banking,Loyal
+ORD10425,2023-05-28,CUST1223,Kolkata,Electronics,Smart Watch,2,7500,15000,UPI,Returning
+ORD10155,2023-05-28,CUST1225,Mumbai,Electronics,Smartphone,3,45000,135000,UPI,Returning
+ORD11159,2023-05-28,CUST1042,Mumbai,Electronics,Smart Watch,2,7500,15000,Debit Card,New
+ORD10046,2023-05-29,CUST1601,Delhi,Electronics,Wireless Headphones,3,5500,16500,Cash on Delivery,Loyal
+ORD11087,2023-05-29,CUST1443,Delhi,Beauty,Skincare Kit,3,3200,9600,Credit Card,New
+ORD11195,2023-05-29,CUST1098,Delhi,Beauty,Skincare Kit,2,3200,6400,Net Banking,New
+ORD10842,2023-05-29,CUST1606,Delhi,Sports,Running Shoes,2,4800,9600,UPI,Returning
+ORD10891,2023-05-29,CUST1588,Bengaluru,Electronics,Smartphone,2,45000,90000,UPI,Returning
+ORD10944,2023-05-29,CUST1097,Bengaluru,Home & Kitchen,Air Fryer,4,8500,34000,Debit Card,New
+ORD10843,2023-05-30,CUST1504,Bengaluru,Home & Kitchen,Air Fryer,3,8500,25500,Cash on Delivery,New
+ORD10913,2023-05-30,CUST1295,Delhi,Electronics,Wireless Headphones,3,5500,16500,Debit Card,Returning
+ORD10645,2023-05-31,CUST1385,Kolkata,Home & Kitchen,Air Fryer,2,8500,17000,Credit Card,New
+ORD10954,2023-05-31,CUST1159,Bengaluru,Electronics,Smart Watch,2,7500,15000,Credit Card,New
+ORD11036,2023-05-31,CUST1063,Chennai,Fashion,Kurta Set,2,2600,5200,UPI,Returning
+ORD10817,2023-06-01,CUST1289,Chennai,Sports,Running Shoes,4,4800,19200,UPI,Returning
+ORD10522,2023-06-01,CUST1009,Delhi,Sports,Running Shoes,1,4800,4800,UPI,New
+ORD10825,2023-06-01,CUST1446,Bengaluru,Sports,Yoga Mat,2,1800,3600,Debit Card,Returning
+ORD10081,2023-06-01,CUST1188,Mumbai,Electronics,Smartphone,1,45000,45000,Credit Card,New
+ORD10383,2023-06-02,CUST1127,Chennai,Home & Kitchen,Air Fryer,3,8500,25500,Cash on Delivery,New
+ORD10149,2023-06-02,CUST1640,Bengaluru,Electronics,Smart Watch,1,7500,7500,Credit Card,Loyal
+ORD10131,2023-06-02,CUST1407,Mumbai,Home & Kitchen,Air Fryer,3,8500,25500,Cash on Delivery,New
+ORD10739,2023-06-02,CUST1046,Hyderabad,Beauty,Skincare Kit,3,3200,9600,UPI,Returning
+ORD10436,2023-06-03,CUST1380,Delhi,Electronics,Wireless Headphones,3,5500,16500,Net Banking,New
+ORD10966,2023-06-03,CUST1095,Jaipur,Electronics,Premium Laptop,3,81000,243000,Debit Card,New
+ORD10820,2023-06-03,CUST1582,Chennai,Electronics,Smartphone,1,45000,45000,Net Banking,Returning
+ORD10738,2023-06-03,CUST1346,Mumbai,Sports,Running Shoes,2,4800,9600,UPI,Loyal
+ORD10279,2023-06-04,CUST1375,Hyderabad,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD10255,2023-06-04,CUST1422,Mumbai,Home & Kitchen,Air Fryer,1,8500,8500,Net Banking,New
+ORD10773,2023-06-05,CUST1623,Jaipur,Sports,Yoga Mat,1,1800,1800,UPI,Returning
+ORD10335,2023-06-06,CUST1246,Hyderabad,Sports,Yoga Mat,2,1800,3600,Cash on Delivery,Returning
+ORD10771,2023-06-06,CUST1007,Delhi,Electronics,Smart Watch,2,7500,15000,Credit Card,Returning
+ORD10655,2023-06-06,CUST1145,Kolkata,Fashion,Kurta Set,2,2600,5200,Cash on Delivery,Loyal
+ORD10984,2023-06-07,CUST1623,Pune,Beauty,Skincare Kit,1,3200,3200,UPI,New
+ORD10127,2023-06-07,CUST1241,Jaipur,Electronics,Smartphone,3,45000,135000,Cash on Delivery,Returning
+ORD10778,2023-06-07,CUST1015,Mumbai,Electronics,Smart Watch,3,7500,22500,Debit Card,Loyal
+ORD10922,2023-06-07,CUST1225,Delhi,Sports,Yoga Mat,2,1800,3600,Net Banking,New
+ORD10267,2023-06-07,CUST1580,Kolkata,Electronics,Premium Laptop,3,81000,243000,Net Banking,Returning
+ORD10698,2023-06-08,CUST1542,Jaipur,Electronics,Wireless Headphones,3,5500,16500,UPI,Returning
+ORD10791,2023-06-08,CUST1525,Mumbai,Beauty,Skincare Kit,1,3200,3200,UPI,Loyal
+ORD10515,2023-06-08,CUST1223,Delhi,Electronics,Smart Watch,1,7500,7500,Debit Card,New
+ORD10265,2023-06-09,CUST1163,Bengaluru,Electronics,Wireless Headphones,2,5500,11000,UPI,New
+ORD11098,2023-06-09,CUST1096,Pune,Home & Kitchen,Coffee Maker,2,6200,12400,Credit Card,Returning
+ORD10890,2023-06-09,CUST1137,Bengaluru,Electronics,Smart Watch,2,7500,15000,Debit Card,Returning
+ORD10846,2023-06-09,CUST1194,Mumbai,Beauty,Skincare Kit,2,3200,6400,Net Banking,Returning
+ORD11030,2023-06-09,CUST1025,Chennai,Home & Kitchen,Air Fryer,2,8500,17000,Cash on Delivery,Returning
+ORD10420,2023-06-09,CUST1357,Chennai,Fashion,Kurta Set,1,2600,2600,Cash on Delivery,Loyal
+ORD10948,2023-06-10,CUST1196,Mumbai,Sports,Running Shoes,1,4800,4800,Debit Card,Loyal
+ORD10840,2023-06-10,CUST1646,Bengaluru,Fashion,Kurta Set,2,2600,5200,Debit Card,Loyal
+ORD10426,2023-06-10,CUST1442,Jaipur,Sports,Running Shoes,1,4800,4800,Credit Card,New
+ORD10690,2023-06-10,CUST1335,Chennai,Home & Kitchen,Coffee Maker,1,6200,6200,UPI,New
+ORD10356,2023-06-11,CUST1150,Delhi,Fashion,Kurta Set,2,2600,5200,UPI,New
+ORD10289,2023-06-12,CUST1277,Hyderabad,Home & Kitchen,Air Fryer,2,8500,17000,UPI,Returning
+ORD10357,2023-06-12,CUST1314,Jaipur,Electronics,Wireless Headphones,1,5500,5500,Credit Card,New
+ORD10572,2023-06-12,CUST1191,Pune,Electronics,Smart Watch,3,7500,22500,Net Banking,Returning
+ORD10991,2023-06-12,CUST1106,Delhi,Beauty,Skincare Kit,3,3200,9600,Credit Card,Returning
+ORD11099,2023-06-13,CUST1088,Hyderabad,Electronics,Smart Watch,3,7500,22500,Cash on Delivery,Loyal
+ORD10318,2023-06-13,CUST1253,Mumbai,Electronics,Smart Watch,2,7500,15000,UPI,New
+ORD10833,2023-06-13,CUST1548,Hyderabad,Fashion,Kurta Set,2,2600,5200,Credit Card,Loyal
+ORD10575,2023-06-13,CUST1409,Pune,Sports,Yoga Mat,3,1800,5400,Credit Card,New
+ORD10878,2023-06-13,CUST1613,Delhi,Fashion,Kurta Set,2,2600,5200,Credit Card,Loyal
+ORD11004,2023-06-13,CUST1420,Hyderabad,Beauty,Skincare Kit,2,3200,6400,UPI,Returning
+ORD10602,2023-06-14,CUST1330,Delhi,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD10979,2023-06-15,CUST1396,Hyderabad,Sports,Yoga Mat,4,1800,7200,Credit Card,Returning
+ORD10439,2023-06-15,CUST1613,Mumbai,Home & Kitchen,Coffee Maker,2,6200,12400,Debit Card,Loyal
+ORD10406,2023-06-15,CUST1220,Hyderabad,Sports,Yoga Mat,2,1800,3600,Net Banking,New
+ORD10391,2023-06-15,CUST1118,Pune,Sports,Running Shoes,1,4800,4800,Net Banking,New
+ORD10861,2023-06-16,CUST1001,Chennai,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,Returning
+ORD10829,2023-06-16,CUST1243,Delhi,Fashion,Kurta Set,2,2600,5200,Credit Card,Returning
+ORD10240,2023-06-17,CUST1037,Mumbai,Electronics,Wireless Headphones,3,5500,16500,Credit Card,Returning
+ORD10691,2023-06-18,CUST1435,Bengaluru,Home & Kitchen,Air Fryer,3,8500,25500,UPI,Returning
+ORD11189,2023-06-18,CUST1011,Kolkata,Electronics,Premium Laptop,2,81000,162000,UPI,New
+ORD10246,2023-06-18,CUST1131,Delhi,Beauty,Skincare Kit,2,3200,6400,Credit Card,New
+ORD10203,2023-06-19,CUST1294,Pune,Home & Kitchen,Coffee Maker,3,6200,18600,Credit Card,Returning
+ORD10101,2023-06-19,CUST1490,Hyderabad,Electronics,Smartphone,1,45000,45000,Net Banking,New
+ORD10815,2023-06-19,CUST1315,Delhi,Home & Kitchen,Air Fryer,1,8500,8500,UPI,Loyal
+ORD10252,2023-06-19,CUST1587,Bengaluru,Home & Kitchen,Air Fryer,2,8500,17000,UPI,New
+ORD10088,2023-06-20,CUST1521,Mumbai,Sports,Running Shoes,1,4800,4800,Cash on Delivery,New
+ORD10593,2023-06-20,CUST1526,Delhi,Electronics,Smartphone,2,45000,90000,Net Banking,Loyal
+ORD10027,2023-06-21,CUST1022,Delhi,Sports,Running Shoes,2,4800,9600,Debit Card,Loyal
+ORD10800,2023-06-21,CUST1111,Kolkata,Electronics,Smartphone,2,45000,90000,Net Banking,Returning
+ORD11018,2023-06-22,CUST1537,Mumbai,Home & Kitchen,Air Fryer,1,8500,8500,UPI,Loyal
+ORD10488,2023-06-22,CUST1612,Kolkata,Electronics,Wireless Headphones,1,5500,5500,Net Banking,Returning
+ORD11146,2023-06-22,CUST1359,Jaipur,Sports,Running Shoes,2,4800,9600,Net Banking,Returning
+ORD10801,2023-06-22,CUST1228,Pune,Beauty,Skincare Kit,3,3200,9600,Net Banking,Loyal
+ORD10442,2023-06-23,CUST1417,Kolkata,Sports,Yoga Mat,2,1800,3600,Credit Card,New
+ORD10374,2023-06-23,CUST1370,Delhi,Sports,Yoga Mat,3,1800,5400,Net Banking,New
+ORD10660,2023-06-24,CUST1051,Mumbai,Sports,Running Shoes,2,4800,9600,UPI,Loyal
+ORD10836,2023-06-24,CUST1322,Kolkata,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,New
+ORD10600,2023-06-24,CUST1471,Pune,Beauty,Skincare Kit,1,3200,3200,Debit Card,Returning
+ORD10339,2023-06-24,CUST1538,Pune,Electronics,Wireless Headphones,3,5500,16500,Credit Card,Returning
+ORD10315,2023-06-24,CUST1099,Jaipur,Electronics,Premium Laptop,2,81000,162000,Net Banking,New
+ORD10213,2023-06-25,CUST1326,Kolkata,Electronics,Smartphone,3,45000,135000,UPI,New
+ORD10173,2023-06-26,CUST1113,Jaipur,Sports,Running Shoes,3,4800,14400,Debit Card,Loyal
+ORD10524,2023-06-26,CUST1492,Bengaluru,Beauty,Skincare Kit,1,3200,3200,Credit Card,Returning
+ORD10124,2023-06-26,CUST1554,Chennai,Sports,Yoga Mat,2,1800,3600,UPI,Returning
+ORD11043,2023-06-27,CUST1630,Chennai,Fashion,Kurta Set,3,2600,7800,Cash on Delivery,Loyal
+ORD11068,2023-06-27,CUST1502,Chennai,Home & Kitchen,Air Fryer,2,8500,17000,Debit Card,Loyal
+ORD10179,2023-06-27,CUST1386,Kolkata,Sports,Yoga Mat,2,1800,3600,Debit Card,Returning
+ORD10415,2023-06-28,CUST1341,Mumbai,Sports,Running Shoes,2,4800,9600,Cash on Delivery,Loyal
+ORD10625,2023-06-28,CUST1450,Jaipur,Sports,Yoga Mat,2,1800,3600,Net Banking,New
+ORD10964,2023-06-29,CUST1130,Mumbai,Home & Kitchen,Air Fryer,2,8500,17000,UPI,Returning
+ORD10629,2023-06-30,CUST1005,Mumbai,Beauty,Skincare Kit,1,3200,3200,UPI,Returning
+ORD10251,2023-06-30,CUST1628,Mumbai,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD10378,2023-06-30,CUST1604,Hyderabad,Home & Kitchen,Coffee Maker,3,6200,18600,UPI,Loyal
+ORD11095,2023-06-30,CUST1604,Chennai,Sports,Yoga Mat,2,1800,3600,Credit Card,New
+ORD10492,2023-07-02,CUST1076,Hyderabad,Electronics,Wireless Headphones,3,5500,16500,Credit Card,Loyal
+ORD11104,2023-07-02,CUST1452,Pune,Electronics,Wireless Headphones,2,5500,11000,Debit Card,New
+ORD11081,2023-07-02,CUST1476,Jaipur,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,New
+ORD10089,2023-07-02,CUST1344,Bengaluru,Fashion,Kurta Set,2,2600,5200,Net Banking,Returning
+ORD10641,2023-07-03,CUST1610,Kolkata,Electronics,Wireless Headphones,2,5500,11000,Credit Card,Loyal
+ORD10638,2023-07-04,CUST1063,Jaipur,Sports,Yoga Mat,1,1800,1800,UPI,Returning
+ORD10116,2023-07-04,CUST1643,Mumbai,Fashion,Kurta Set,1,2600,2600,Net Banking,Loyal
+ORD10536,2023-07-05,CUST1165,Bengaluru,Electronics,Smart Watch,1,7500,7500,Net Banking,New
+ORD10227,2023-07-05,CUST1151,Delhi,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD10137,2023-07-06,CUST1160,Delhi,Beauty,Skincare Kit,2,3200,6400,UPI,New
+ORD11100,2023-07-07,CUST1078,Bengaluru,Home & Kitchen,Coffee Maker,2,6200,12400,Debit Card,Returning
+ORD10286,2023-07-07,CUST1283,Jaipur,Sports,Running Shoes,3,4800,14400,UPI,New
+ORD10256,2023-07-07,CUST1104,Mumbai,Fashion,Kurta Set,2,2600,5200,UPI,Returning
+ORD10864,2023-07-07,CUST1550,Bengaluru,Home & Kitchen,Coffee Maker,2,6200,12400,Debit Card,Returning
+ORD10083,2023-07-07,CUST1493,Delhi,Sports,Running Shoes,2,4800,9600,Credit Card,Loyal
+ORD11051,2023-07-09,CUST1215,Jaipur,Beauty,Skincare Kit,3,3200,9600,Credit Card,Loyal
+ORD10965,2023-07-09,CUST1411,Bengaluru,Electronics,Premium Laptop,2,81000,162000,Debit Card,New
+ORD11192,2023-07-09,CUST1187,Jaipur,Electronics,Wireless Headphones,2,5500,11000,Net Banking,New
+ORD10254,2023-07-10,CUST1420,Jaipur,Home & Kitchen,Air Fryer,3,8500,25500,Credit Card,Loyal
+ORD10305,2023-07-11,CUST1373,Jaipur,Home & Kitchen,Air Fryer,2,8500,17000,Credit Card,Returning
+ORD10314,2023-07-11,CUST1607,Jaipur,Beauty,Skincare Kit,3,3200,9600,Credit Card,Returning
+ORD11122,2023-07-11,CUST1471,Kolkata,Beauty,Skincare Kit,1,3200,3200,UPI,Returning
+ORD10662,2023-07-12,CUST1449,Bengaluru,Electronics,Smart Watch,3,7500,22500,UPI,New
+ORD10132,2023-07-12,CUST1231,Hyderabad,Electronics,Smart Watch,3,7500,22500,Debit Card,New
+ORD10308,2023-07-12,CUST1037,Kolkata,Electronics,Premium Laptop,3,81000,243000,Net Banking,Loyal
+ORD10438,2023-07-13,CUST1427,Bengaluru,Electronics,Smart Watch,3,7500,22500,Credit Card,Returning
+ORD10580,2023-07-14,CUST1173,Hyderabad,Electronics,Smartphone,1,45000,45000,UPI,New
+ORD10200,2023-07-14,CUST1184,Jaipur,Electronics,Premium Laptop,1,81000,81000,Debit Card,Returning
+ORD10343,2023-07-14,CUST1036,Hyderabad,Electronics,Premium Laptop,2,81000,162000,UPI,Loyal
+ORD10967,2023-07-15,CUST1627,Mumbai,Electronics,Smart Watch,2,7500,15000,Credit Card,New
+ORD11107,2023-07-15,CUST1182,Delhi,Electronics,Smartphone,3,45000,135000,Debit Card,Returning
+ORD10300,2023-07-15,CUST1172,Bengaluru,Sports,Yoga Mat,2,1800,3600,UPI,Returning
+ORD10883,2023-07-15,CUST1095,Chennai,Electronics,Wireless Headphones,2,5500,11000,Debit Card,New
+ORD10049,2023-07-17,CUST1242,Jaipur,Fashion,Kurta Set,1,2600,2600,Cash on Delivery,New
+ORD10620,2023-07-17,CUST1547,Bengaluru,Electronics,Premium Laptop,2,81000,162000,Credit Card,New
+ORD10140,2023-07-17,CUST1578,Hyderabad,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,Returning
+ORD10718,2023-07-18,CUST1374,Chennai,Beauty,Skincare Kit,1,3200,3200,Credit Card,New
+ORD10062,2023-07-18,CUST1388,Pune,Electronics,Premium Laptop,1,81000,81000,Debit Card,Loyal
+ORD10376,2023-07-18,CUST1106,Pune,Beauty,Skincare Kit,2,3200,6400,Credit Card,New
+ORD10894,2023-07-19,CUST1296,Kolkata,Fashion,Kurta Set,1,2600,2600,Credit Card,New
+ORD11142,2023-07-19,CUST1521,Chennai,Sports,Running Shoes,2,4800,9600,Debit Card,New
+ORD10050,2023-07-19,CUST1346,Hyderabad,Sports,Running Shoes,3,4800,14400,Credit Card,New
+ORD11152,2023-07-19,CUST1442,Chennai,Beauty,Skincare Kit,3,3200,9600,UPI,New
+ORD10010,2023-07-20,CUST1215,Hyderabad,Electronics,Smartphone,1,45000,45000,Credit Card,New
+ORD10013,2023-07-20,CUST1088,Hyderabad,Electronics,Premium Laptop,2,81000,162000,Credit Card,New
+ORD10427,2023-07-21,CUST1608,Hyderabad,Sports,Yoga Mat,2,1800,3600,Credit Card,Returning
+ORD10505,2023-07-21,CUST1484,Delhi,Electronics,Wireless Headphones,2,5500,11000,UPI,Returning
+ORD10830,2023-07-21,CUST1543,Hyderabad,Sports,Running Shoes,1,4800,4800,Debit Card,New
+ORD10760,2023-07-22,CUST1639,Hyderabad,Electronics,Premium Laptop,1,81000,81000,Credit Card,Returning
+ORD11137,2023-07-22,CUST1059,Pune,Beauty,Skincare Kit,1,3200,3200,Credit Card,Returning
+ORD10601,2023-07-23,CUST1012,Jaipur,Electronics,Smartphone,1,45000,45000,UPI,New
+ORD10456,2023-07-23,CUST1602,Hyderabad,Home & Kitchen,Air Fryer,2,8500,17000,UPI,New
+ORD10398,2023-07-24,CUST1447,Jaipur,Electronics,Wireless Headphones,3,5500,16500,UPI,Loyal
+ORD10995,2023-07-25,CUST1029,Delhi,Electronics,Wireless Headphones,3,5500,16500,UPI,New
+ORD10385,2023-07-25,CUST1641,Pune,Sports,Yoga Mat,2,1800,3600,UPI,Returning
+ORD10272,2023-07-25,CUST1135,Delhi,Electronics,Smart Watch,1,7500,7500,Credit Card,Returning
+ORD10626,2023-07-25,CUST1010,Jaipur,Beauty,Skincare Kit,3,3200,9600,UPI,New
+ORD10509,2023-07-26,CUST1569,Jaipur,Electronics,Smart Watch,1,7500,7500,Net Banking,Loyal
+ORD10608,2023-07-26,CUST1348,Bengaluru,Electronics,Wireless Headphones,1,5500,5500,UPI,New
+ORD10468,2023-07-27,CUST1277,Pune,Electronics,Wireless Headphones,1,5500,5500,UPI,Returning
+ORD10818,2023-07-27,CUST1437,Chennai,Home & Kitchen,Air Fryer,3,8500,25500,Debit Card,New
+ORD10364,2023-07-27,CUST1264,Hyderabad,Electronics,Wireless Headphones,3,5500,16500,UPI,New
+ORD10920,2023-07-27,CUST1143,Chennai,Beauty,Skincare Kit,2,3200,6400,UPI,Returning
+ORD10399,2023-07-28,CUST1581,Hyderabad,Electronics,Premium Laptop,2,81000,162000,Debit Card,New
+ORD10311,2023-07-29,CUST1497,Chennai,Fashion,Kurta Set,2,2600,5200,Credit Card,New
+ORD10497,2023-07-30,CUST1506,Delhi,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,New
+ORD11165,2023-07-30,CUST1378,Delhi,Home & Kitchen,Air Fryer,1,8500,8500,Debit Card,Returning
+ORD11094,2023-08-01,CUST1609,Pune,Home & Kitchen,Air Fryer,2,8500,17000,Net Banking,Returning
+ORD11092,2023-08-01,CUST1579,Mumbai,Beauty,Skincare Kit,2,3200,6400,Debit Card,Loyal
+ORD10514,2023-08-01,CUST1398,Hyderabad,Electronics,Wireless Headphones,2,5500,11000,UPI,Loyal
+ORD10714,2023-08-01,CUST1043,Delhi,Electronics,Smart Watch,1,7500,7500,Credit Card,Returning
+ORD10393,2023-08-02,CUST1601,Mumbai,Electronics,Premium Laptop,3,81000,243000,Cash on Delivery,Loyal
+ORD10414,2023-08-02,CUST1432,Bengaluru,Electronics,Premium Laptop,2,81000,162000,UPI,Returning
+ORD11141,2023-08-02,CUST1526,Chennai,Electronics,Smart Watch,2,7500,15000,UPI,New
+ORD10807,2023-08-02,CUST1595,Delhi,Home & Kitchen,Coffee Maker,2,6200,12400,Cash on Delivery,Returning
+ORD10903,2023-08-03,CUST1379,Delhi,Electronics,Wireless Headphones,2,5500,11000,Debit Card,Returning
+ORD10172,2023-08-03,CUST1233,Mumbai,Fashion,Kurta Set,2,2600,5200,UPI,New
+ORD10074,2023-08-03,CUST1456,Delhi,Electronics,Smartphone,2,45000,90000,Net Banking,Returning
+ORD10048,2023-08-03,CUST1014,Chennai,Fashion,Kurta Set,1,2600,2600,Net Banking,Loyal
+ORD10043,2023-08-04,CUST1167,Hyderabad,Electronics,Wireless Headphones,1,5500,5500,Debit Card,New
+ORD10631,2023-08-04,CUST1374,Mumbai,Sports,Running Shoes,2,4800,9600,UPI,Returning
+ORD10183,2023-08-04,CUST1625,Bengaluru,Fashion,Kurta Set,1,2600,2600,UPI,Loyal
+ORD10983,2023-08-04,CUST1210,Chennai,Electronics,Smartphone,3,45000,135000,UPI,New
+ORD11190,2023-08-05,CUST1512,Mumbai,Electronics,Smart Watch,4,7500,30000,Cash on Delivery,Returning
+ORD10635,2023-08-05,CUST1239,Mumbai,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD10017,2023-08-05,CUST1309,Pune,Electronics,Premium Laptop,3,81000,243000,Debit Card,New
+ORD10868,2023-08-06,CUST1010,Bengaluru,Home & Kitchen,Air Fryer,2,8500,17000,UPI,New
+ORD10164,2023-08-06,CUST1411,Hyderabad,Electronics,Smart Watch,2,7500,15000,Credit Card,Returning
+ORD10304,2023-08-07,CUST1046,Delhi,Beauty,Skincare Kit,2,3200,6400,UPI,Returning
+ORD11083,2023-08-07,CUST1391,Bengaluru,Electronics,Wireless Headphones,2,5500,11000,Credit Card,New
+ORD10808,2023-08-08,CUST1554,Chennai,Beauty,Skincare Kit,1,3200,3200,Credit Card,Returning
+ORD10686,2023-08-08,CUST1103,Hyderabad,Electronics,Smart Watch,3,7500,22500,Cash on Delivery,New
+ORD10519,2023-08-08,CUST1215,Bengaluru,Electronics,Smart Watch,2,7500,15000,UPI,Returning
+ORD11177,2023-08-08,CUST1401,Chennai,Electronics,Wireless Headphones,2,5500,11000,Cash on Delivery,Loyal
+ORD11116,2023-08-09,CUST1548,Chennai,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,New
+ORD10489,2023-08-09,CUST1396,Delhi,Electronics,Smart Watch,3,7500,22500,Debit Card,New
+ORD11064,2023-08-09,CUST1590,Hyderabad,Home & Kitchen,Air Fryer,2,8500,17000,Credit Card,New
+ORD10297,2023-08-10,CUST1049,Bengaluru,Electronics,Wireless Headphones,2,5500,11000,Credit Card,Returning
+ORD10384,2023-08-10,CUST1393,Chennai,Sports,Yoga Mat,3,1800,5400,UPI,New
+ORD11179,2023-08-11,CUST1634,Bengaluru,Sports,Yoga Mat,2,1800,3600,Net Banking,Returning
+ORD10640,2023-08-11,CUST1461,Delhi,Electronics,Smartphone,2,45000,90000,UPI,New
+ORD10284,2023-08-11,CUST1563,Mumbai,Beauty,Skincare Kit,1,3200,3200,Debit Card,New
+ORD10076,2023-08-11,CUST1252,Delhi,Electronics,Smartphone,4,45000,180000,UPI,Returning
+ORD10454,2023-08-11,CUST1090,Pune,Fashion,Kurta Set,3,2600,7800,UPI,Loyal
+ORD10276,2023-08-12,CUST1033,Mumbai,Electronics,Smart Watch,2,7500,15000,Net Banking,Returning
+ORD10223,2023-08-12,CUST1551,Kolkata,Sports,Yoga Mat,2,1800,3600,Debit Card,Loyal
+ORD10723,2023-08-12,CUST1195,Jaipur,Electronics,Wireless Headphones,3,5500,16500,UPI,New
+ORD10431,2023-08-13,CUST1336,Hyderabad,Fashion,Kurta Set,4,2600,10400,UPI,Returning
+ORD10162,2023-08-14,CUST1359,Hyderabad,Beauty,Skincare Kit,2,3200,6400,Net Banking,Returning
+ORD10328,2023-08-14,CUST1288,Chennai,Electronics,Wireless Headphones,2,5500,11000,Net Banking,Returning
+ORD10839,2023-08-14,CUST1004,Mumbai,Home & Kitchen,Air Fryer,2,8500,17000,Cash on Delivery,Returning
+ORD10201,2023-08-14,CUST1123,Kolkata,Electronics,Smart Watch,3,7500,22500,Credit Card,New
+ORD10951,2023-08-14,CUST1517,Kolkata,Electronics,Smart Watch,1,7500,7500,Debit Card,New
+ORD10148,2023-08-14,CUST1331,Chennai,Beauty,Skincare Kit,2,3200,6400,Debit Card,Returning
+ORD10208,2023-08-14,CUST1144,Jaipur,Electronics,Smartphone,3,45000,135000,Debit Card,Returning
+ORD10100,2023-08-15,CUST1379,Chennai,Beauty,Skincare Kit,3,3200,9600,UPI,Returning
+ORD10109,2023-08-15,CUST1503,Chennai,Sports,Yoga Mat,3,1800,5400,Cash on Delivery,New
+ORD11114,2023-08-15,CUST1624,Mumbai,Electronics,Smart Watch,2,7500,15000,Net Banking,New
+ORD10320,2023-08-15,CUST1256,Hyderabad,Electronics,Premium Laptop,2,81000,162000,UPI,New
+ORD11163,2023-08-16,CUST1017,Mumbai,Electronics,Premium Laptop,2,81000,162000,Cash on Delivery,New
+ORD10745,2023-08-16,CUST1121,Jaipur,Electronics,Premium Laptop,1,81000,81000,UPI,Returning
+ORD11078,2023-08-17,CUST1380,Delhi,Home & Kitchen,Air Fryer,4,8500,34000,Debit Card,Returning
+ORD10876,2023-08-17,CUST1321,Hyderabad,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,New
+ORD10573,2023-08-17,CUST1508,Pune,Electronics,Premium Laptop,1,81000,81000,UPI,New
+ORD10025,2023-08-17,CUST1460,Mumbai,Fashion,Kurta Set,2,2600,5200,Net Banking,Returning
+ORD11085,2023-08-18,CUST1008,Kolkata,Electronics,Smart Watch,2,7500,15000,Cash on Delivery,New
+ORD10893,2023-08-18,CUST1513,Jaipur,Sports,Running Shoes,2,4800,9600,Debit Card,New
+ORD11067,2023-08-19,CUST1194,Kolkata,Fashion,Kurta Set,3,2600,7800,UPI,Loyal
+ORD10566,2023-08-19,CUST1361,Hyderabad,Electronics,Smartphone,3,45000,135000,Debit Card,Loyal
+ORD10563,2023-08-19,CUST1058,Kolkata,Sports,Yoga Mat,2,1800,3600,Credit Card,New
+ORD10671,2023-08-20,CUST1438,Hyderabad,Sports,Yoga Mat,2,1800,3600,UPI,Returning
+ORD11113,2023-08-20,CUST1147,Chennai,Electronics,Smartphone,2,45000,90000,UPI,Returning
+ORD10875,2023-08-20,CUST1596,Chennai,Electronics,Smartphone,2,45000,90000,Credit Card,Loyal
+ORD11134,2023-08-20,CUST1593,Jaipur,Fashion,Kurta Set,2,2600,5200,Cash on Delivery,Returning
+ORD11161,2023-08-20,CUST1041,Hyderabad,Electronics,Smart Watch,2,7500,15000,Credit Card,Returning
+ORD10281,2023-08-21,CUST1038,Hyderabad,Electronics,Wireless Headphones,2,5500,11000,Credit Card,Returning
+ORD11115,2023-08-21,CUST1381,Jaipur,Electronics,Wireless Headphones,3,5500,16500,Credit Card,Returning
+ORD10433,2023-08-21,CUST1497,Jaipur,Electronics,Premium Laptop,2,81000,162000,UPI,New
+ORD10650,2023-08-22,CUST1437,Jaipur,Sports,Yoga Mat,3,1800,5400,Debit Card,New
+ORD10259,2023-08-23,CUST1112,Mumbai,Electronics,Wireless Headphones,2,5500,11000,UPI,New
+ORD10345,2023-08-24,CUST1321,Mumbai,Electronics,Premium Laptop,3,81000,243000,Credit Card,New
+ORD10115,2023-08-24,CUST1462,Hyderabad,Electronics,Wireless Headphones,2,5500,11000,Credit Card,Returning
+ORD10118,2023-08-24,CUST1218,Jaipur,Sports,Yoga Mat,1,1800,1800,UPI,Loyal
+ORD10387,2023-08-24,CUST1634,Pune,Fashion,Kurta Set,1,2600,2600,Credit Card,New
+ORD10234,2023-08-25,CUST1624,Mumbai,Electronics,Smart Watch,2,7500,15000,UPI,New
+ORD10541,2023-08-25,CUST1365,Mumbai,Sports,Running Shoes,3,4800,14400,Net Banking,Returning
+ORD10931,2023-08-25,CUST1179,Mumbai,Fashion,Kurta Set,3,2600,7800,UPI,New
+ORD10486,2023-08-26,CUST1019,Kolkata,Electronics,Smartphone,4,45000,180000,Credit Card,New
+ORD11011,2023-08-26,CUST1137,Delhi,Electronics,Wireless Headphones,1,5500,5500,Credit Card,Loyal
+ORD10772,2023-08-27,CUST1003,Bengaluru,Home & Kitchen,Air Fryer,3,8500,25500,Credit Card,Returning
+ORD10004,2023-08-27,CUST1107,Pune,Electronics,Smart Watch,2,7500,15000,Debit Card,Loyal
+ORD10119,2023-08-27,CUST1503,Jaipur,Electronics,Smart Watch,3,7500,22500,UPI,New
+ORD10976,2023-08-27,CUST1346,Mumbai,Beauty,Skincare Kit,1,3200,3200,Debit Card,New
+ORD10550,2023-08-28,CUST1252,Bengaluru,Electronics,Smart Watch,4,7500,30000,Net Banking,Loyal
+ORD10165,2023-08-29,CUST1649,Bengaluru,Home & Kitchen,Air Fryer,3,8500,25500,Cash on Delivery,New
+ORD10177,2023-08-29,CUST1268,Kolkata,Beauty,Skincare Kit,3,3200,9600,UPI,New
+ORD10794,2023-08-29,CUST1580,Bengaluru,Home & Kitchen,Air Fryer,2,8500,17000,Debit Card,New
+ORD10302,2023-08-30,CUST1158,Delhi,Electronics,Smart Watch,2,7500,15000,UPI,Returning
+ORD10428,2023-08-30,CUST1325,Pune,Fashion,Kurta Set,4,2600,10400,Debit Card,Loyal
+ORD10834,2023-08-30,CUST1223,Mumbai,Home & Kitchen,Coffee Maker,1,6200,6200,Credit Card,New
+ORD10630,2023-08-30,CUST1119,Jaipur,Sports,Yoga Mat,2,1800,3600,Cash on Delivery,Returning
+ORD10482,2023-08-31,CUST1062,Mumbai,Electronics,Smartphone,3,45000,135000,UPI,Loyal
+ORD10506,2023-08-31,CUST1565,Delhi,Home & Kitchen,Air Fryer,2,8500,17000,Net Banking,Returning
+ORD10535,2023-08-31,CUST1029,Chennai,Electronics,Smart Watch,2,7500,15000,Cash on Delivery,New
+ORD10159,2023-08-31,CUST1633,Jaipur,Home & Kitchen,Air Fryer,2,8500,17000,UPI,New
+ORD11052,2023-09-01,CUST1435,Hyderabad,Beauty,Skincare Kit,1,3200,4800,Net Banking,New
+ORD10974,2023-09-01,CUST1134,Jaipur,Home & Kitchen,Air Fryer,1,8500,12750,UPI,Returning
+ORD11164,2023-09-01,CUST1153,Chennai,Home & Kitchen,Coffee Maker,3,6200,27900,Credit Card,New
+ORD10452,2023-09-01,CUST1499,Bengaluru,Sports,Yoga Mat,1,1800,2700,Debit Card,New
+ORD10007,2023-09-01,CUST1615,Mumbai,Sports,Running Shoes,2,4800,14400,Net Banking,Returning
+ORD10464,2023-09-01,CUST1075,Delhi,Sports,Yoga Mat,3,1800,8100,Credit Card,Returning
+ORD10337,2023-09-01,CUST1039,Pune,Home & Kitchen,Air Fryer,1,8500,12750,UPI,New
+ORD10446,2023-09-02,CUST1285,Bengaluru,Sports,Running Shoes,2,4800,14400,Credit Card,Loyal
+ORD10696,2023-09-02,CUST1481,Delhi,Sports,Running Shoes,2,4800,14400,Debit Card,Returning
+ORD10498,2023-09-02,CUST1367,Jaipur,Electronics,Smartphone,2,45000,135000,UPI,Returning
+ORD11199,2023-09-02,CUST1069,Hyderabad,Electronics,Wireless Headphones,1,5500,8250,Net Banking,New
+ORD10367,2023-09-02,CUST1620,Hyderabad,Electronics,Premium Laptop,2,81000,243000,Credit Card,Returning
+ORD10114,2023-09-02,CUST1613,Chennai,Sports,Running Shoes,3,4800,21600,UPI,Returning
+ORD10950,2023-09-02,CUST1522,Bengaluru,Electronics,Premium Laptop,3,81000,364500,UPI,Returning
+ORD10621,2023-09-02,CUST1253,Delhi,Home & Kitchen,Air Fryer,2,8500,25500,Net Banking,New
+ORD10907,2023-09-02,CUST1132,Kolkata,Home & Kitchen,Coffee Maker,2,6200,18600,UPI,Returning
+ORD10945,2023-09-03,CUST1411,Pune,Sports,Running Shoes,2,4800,14400,Debit Card,New
+ORD10229,2023-09-03,CUST1298,Kolkata,Sports,Running Shoes,2,4800,14400,Debit Card,New
+ORD11084,2023-09-03,CUST1349,Delhi,Electronics,Smartphone,3,45000,202500,Net Banking,Loyal
+ORD10537,2023-09-03,CUST1422,Pune,Electronics,Wireless Headphones,3,5500,24750,UPI,Returning
+ORD10217,2023-09-03,CUST1346,Hyderabad,Fashion,Kurta Set,2,2600,7800,Net Banking,New
+ORD10104,2023-09-04,CUST1028,Hyderabad,Electronics,Smartphone,2,45000,135000,UPI,New
+ORD11138,2023-09-04,CUST1128,Kolkata,Home & Kitchen,Air Fryer,1,8500,12750,Credit Card,New
+ORD10624,2023-09-04,CUST1256,Pune,Electronics,Wireless Headphones,3,5500,24750,UPI,New
+ORD10793,2023-09-04,CUST1025,Pune,Electronics,Wireless Headphones,3,5500,24750,Credit Card,New
+ORD10911,2023-09-04,CUST1402,Mumbai,Electronics,Smart Watch,3,7500,33750,Net Banking,Returning
+ORD10253,2023-09-04,CUST1625,Bengaluru,Electronics,Smart Watch,1,7500,11250,Cash on Delivery,New
+ORD10978,2023-09-04,CUST1363,Pune,Electronics,Smart Watch,1,7500,11250,UPI,Returning
+ORD10370,2023-09-04,CUST1196,Jaipur,Sports,Yoga Mat,2,1800,5400,UPI,New
+ORD10750,2023-09-04,CUST1107,Jaipur,Fashion,Kurta Set,1,2600,3900,Credit Card,Returning
+ORD10969,2023-09-04,CUST1283,Delhi,Electronics,Smart Watch,1,7500,11250,Net Banking,New
+ORD10448,2023-09-05,CUST1012,Kolkata,Home & Kitchen,Coffee Maker,2,6200,18600,Net Banking,New
+ORD10470,2023-09-05,CUST1457,Mumbai,Electronics,Wireless Headphones,1,5500,8250,Net Banking,Loyal
+ORD10939,2023-09-05,CUST1231,Chennai,Electronics,Smartphone,3,45000,202500,UPI,New
+ORD10590,2023-09-05,CUST1047,Kolkata,Fashion,Kurta Set,2,2600,7800,Debit Card,New
+ORD11001,2023-09-05,CUST1405,Delhi,Electronics,Smart Watch,1,7500,11250,Debit Card,New
+ORD10262,2023-09-06,CUST1099,Delhi,Electronics,Smartphone,2,45000,135000,Debit Card,New
+ORD11056,2023-09-06,CUST1305,Chennai,Electronics,Premium Laptop,3,81000,364500,UPI,New
+ORD10961,2023-09-06,CUST1157,Mumbai,Sports,Running Shoes,3,4800,21600,UPI,Loyal
+ORD10835,2023-09-06,CUST1006,Bengaluru,Beauty,Skincare Kit,1,3200,4800,UPI,New
+ORD11168,2023-09-06,CUST1629,Chennai,Electronics,Smartphone,2,45000,135000,Debit Card,New
+ORD11156,2023-09-06,CUST1075,Mumbai,Sports,Yoga Mat,3,1800,8100,UPI,Loyal
+ORD10521,2023-09-06,CUST1588,Jaipur,Sports,Running Shoes,2,4800,14400,Credit Card,New
+ORD10668,2023-09-06,CUST1551,Pune,Sports,Running Shoes,3,4800,21600,Credit Card,New
+ORD11139,2023-09-06,CUST1115,Chennai,Sports,Running Shoes,1,4800,7200,Net Banking,Returning
+ORD10018,2023-09-06,CUST1344,Delhi,Sports,Yoga Mat,1,1800,2700,UPI,Returning
+ORD10585,2023-09-07,CUST1229,Pune,Electronics,Premium Laptop,1,81000,121500,Net Banking,Returning
+ORD10065,2023-09-07,CUST1566,Chennai,Electronics,Premium Laptop,3,81000,364500,Debit Card,New
+ORD10527,2023-09-07,CUST1519,Pune,Fashion,Kurta Set,2,2600,7800,Credit Card,New
+ORD10712,2023-09-07,CUST1205,Mumbai,Home & Kitchen,Coffee Maker,2,6200,18600,Debit Card,Returning
+ORD10330,2023-09-07,CUST1155,Jaipur,Electronics,Wireless Headphones,3,5500,24750,Net Banking,New
+ORD10319,2023-09-08,CUST1161,Chennai,Sports,Running Shoes,4,4800,28800,Credit Card,Loyal
+ORD10755,2023-09-08,CUST1257,Bengaluru,Home & Kitchen,Coffee Maker,2,6200,18600,UPI,New
+ORD10465,2023-09-08,CUST1413,Chennai,Electronics,Smart Watch,3,7500,33750,Debit Card,Loyal
+ORD10312,2023-09-08,CUST1302,Bengaluru,Sports,Running Shoes,3,4800,21600,Net Banking,Returning
+ORD11075,2023-09-08,CUST1643,Chennai,Home & Kitchen,Air Fryer,1,8500,12750,Net Banking,Returning
+ORD11105,2023-09-08,CUST1500,Pune,Electronics,Wireless Headphones,1,5500,8250,Net Banking,Loyal
+ORD10130,2023-09-08,CUST1485,Delhi,Home & Kitchen,Air Fryer,2,8500,25500,Credit Card,Loyal
+ORD10632,2023-09-08,CUST1065,Pune,Electronics,Smartphone,2,45000,135000,Debit Card,New
+ORD11071,2023-09-08,CUST1222,Delhi,Electronics,Wireless Headphones,2,5500,16500,UPI,Returning
+ORD10103,2023-09-08,CUST1041,Jaipur,Beauty,Skincare Kit,3,3200,14400,Debit Card,Returning
+ORD10693,2023-09-08,CUST1308,Bengaluru,Beauty,Skincare Kit,1,3200,4800,Debit Card,Loyal
+ORD10221,2023-09-08,CUST1489,Jaipur,Fashion,Kurta Set,4,2600,15600,UPI,Returning
+ORD10687,2023-09-08,CUST1422,Pune,Home & Kitchen,Air Fryer,2,8500,25500,UPI,Returning
+ORD10610,2023-09-08,CUST1648,Delhi,Electronics,Smartphone,4,45000,270000,Debit Card,New
+ORD11111,2023-09-09,CUST1151,Hyderabad,Home & Kitchen,Coffee Maker,2,6200,18600,Net Banking,Loyal
+ORD10166,2023-09-09,CUST1318,Pune,Electronics,Smart Watch,1,7500,11250,Credit Card,Loyal
+ORD10002,2023-09-09,CUST1436,Pune,Electronics,Smart Watch,1,7500,11250,Net Banking,Returning
+ORD11054,2023-09-09,CUST1032,Mumbai,Beauty,Skincare Kit,2,3200,9600,Net Banking,Returning
+ORD10665,2023-09-09,CUST1348,Kolkata,Beauty,Skincare Kit,1,3200,4800,Credit Card,Returning
+ORD10373,2023-09-09,CUST1269,Hyderabad,Electronics,Smartphone,2,45000,135000,Cash on Delivery,Loyal
+ORD11101,2023-09-09,CUST1288,Jaipur,Beauty,Skincare Kit,2,3200,9600,Credit Card,Loyal
+ORD10737,2023-09-09,CUST1524,Delhi,Fashion,Kurta Set,4,2600,15600,Debit Card,Loyal
+ORD11082,2023-09-09,CUST1178,Pune,Sports,Yoga Mat,2,1800,5400,Debit Card,New
+ORD11044,2023-09-10,CUST1342,Bengaluru,Beauty,Skincare Kit,2,3200,9600,Cash on Delivery,New
+ORD10877,2023-09-10,CUST1319,Jaipur,Beauty,Skincare Kit,2,3200,9600,Cash on Delivery,Returning
+ORD10317,2023-09-10,CUST1191,Jaipur,Home & Kitchen,Coffee Maker,2,6200,18600,UPI,Returning
+ORD10642,2023-09-10,CUST1105,Bengaluru,Beauty,Skincare Kit,1,3200,4800,Net Banking,New
+ORD10715,2023-09-10,CUST1111,Delhi,Beauty,Skincare Kit,2,3200,9600,UPI,Loyal
+ORD10963,2023-09-11,CUST1324,Pune,Home & Kitchen,Coffee Maker,3,6200,27900,Credit Card,New
+ORD10768,2023-09-11,CUST1365,Bengaluru,Home & Kitchen,Air Fryer,4,8500,51000,UPI,Returning
+ORD10851,2023-09-11,CUST1300,Pune,Sports,Running Shoes,3,4800,21600,Debit Card,Loyal
+ORD10859,2023-09-11,CUST1140,Hyderabad,Sports,Yoga Mat,1,1800,2700,UPI,New
+ORD11196,2023-09-11,CUST1055,Pune,Fashion,Kurta Set,3,2600,11700,Debit Card,Returning
+ORD10528,2023-09-11,CUST1174,Mumbai,Fashion,Kurta Set,1,2600,3900,Credit Card,New
+ORD11033,2023-09-11,CUST1161,Jaipur,Home & Kitchen,Air Fryer,1,8500,12750,Debit Card,Loyal
+ORD10754,2023-09-11,CUST1026,Kolkata,Electronics,Wireless Headphones,2,5500,16500,Debit Card,Loyal
+ORD11191,2023-09-11,CUST1113,Hyderabad,Home & Kitchen,Air Fryer,2,8500,25500,Net Banking,Returning
+ORD10821,2023-09-11,CUST1503,Chennai,Home & Kitchen,Air Fryer,2,8500,25500,Credit Card,New
+ORD10106,2023-09-11,CUST1201,Pune,Sports,Yoga Mat,2,1800,5400,Debit Card,New
+ORD10901,2023-09-11,CUST1165,Hyderabad,Electronics,Smart Watch,3,7500,33750,Debit Card,New
+ORD10187,2023-09-11,CUST1642,Mumbai,Electronics,Wireless Headphones,1,5500,8250,Credit Card,Loyal
+ORD10024,2023-09-11,CUST1161,Mumbai,Electronics,Smart Watch,3,7500,33750,Cash on Delivery,New
+ORD10014,2023-09-11,CUST1373,Chennai,Sports,Running Shoes,2,4800,14400,Net Banking,New
+ORD10879,2023-09-12,CUST1329,Chennai,Electronics,Smart Watch,3,7500,33750,UPI,Loyal
+ORD10706,2023-09-12,CUST1330,Delhi,Electronics,Premium Laptop,3,81000,364500,UPI,New
+ORD10011,2023-09-12,CUST1331,Delhi,Home & Kitchen,Coffee Maker,4,6200,37200,UPI,Returning
+ORD10033,2023-09-12,CUST1476,Kolkata,Sports,Running Shoes,3,4800,21600,Debit Card,New
+ORD11143,2023-09-12,CUST1552,Delhi,Electronics,Smartphone,4,45000,270000,Credit Card,New
+ORD11193,2023-09-12,CUST1227,Jaipur,Sports,Running Shoes,1,4800,7200,Debit Card,New
+ORD10230,2023-09-12,CUST1611,Mumbai,Electronics,Smart Watch,1,7500,11250,UPI,Returning
+ORD10741,2023-09-12,CUST1078,Chennai,Fashion,Kurta Set,1,2600,3900,Credit Card,Loyal
+ORD10982,2023-09-13,CUST1616,Pune,Electronics,Wireless Headphones,1,5500,8250,Net Banking,Loyal
+ORD10323,2023-09-13,CUST1018,Chennai,Electronics,Wireless Headphones,2,5500,16500,UPI,New
+ORD11097,2023-09-13,CUST1418,Mumbai,Home & Kitchen,Coffee Maker,3,6200,27900,UPI,Returning
+ORD11073,2023-09-13,CUST1264,Jaipur,Electronics,Smart Watch,1,7500,11250,Net Banking,Returning
+ORD10997,2023-09-13,CUST1296,Mumbai,Fashion,Kurta Set,3,2600,11700,Credit Card,New
+ORD10872,2023-09-13,CUST1013,Pune,Home & Kitchen,Air Fryer,2,8500,25500,Net Banking,New
+ORD10466,2023-09-13,CUST1376,Mumbai,Electronics,Wireless Headphones,2,5500,16500,UPI,Loyal
+ORD10080,2023-09-13,CUST1217,Pune,Home & Kitchen,Air Fryer,1,8500,12750,Credit Card,Returning
+ORD11024,2023-09-13,CUST1418,Bengaluru,Sports,Running Shoes,2,4800,14400,UPI,Returning
+ORD11181,2023-09-13,CUST1576,Hyderabad,Electronics,Premium Laptop,2,81000,243000,Net Banking,New
+ORD11103,2023-09-13,CUST1491,Chennai,Electronics,Smart Watch,2,7500,22500,Credit Card,New
+ORD10085,2023-09-13,CUST1157,Kolkata,Beauty,Skincare Kit,2,3200,9600,Credit Card,New
+ORD10094,2023-09-13,CUST1139,Chennai,Beauty,Skincare Kit,2,3200,9600,UPI,Returning
+ORD10525,2023-09-14,CUST1253,Jaipur,Electronics,Wireless Headphones,1,5500,8250,Debit Card,New
+ORD11132,2023-09-14,CUST1364,Delhi,Home & Kitchen,Coffee Maker,3,6200,27900,Credit Card,Returning
+ORD10353,2023-09-14,CUST1575,Chennai,Sports,Running Shoes,1,4800,7200,Credit Card,Returning
+ORD10564,2023-09-14,CUST1476,Hyderabad,Sports,Running Shoes,1,4800,7200,Credit Card,New
+ORD11045,2023-09-14,CUST1476,Kolkata,Electronics,Smartphone,4,45000,270000,UPI,Loyal
+ORD10589,2023-09-14,CUST1402,Pune,Beauty,Skincare Kit,3,3200,14400,Credit Card,New
+ORD10956,2023-09-15,CUST1216,Jaipur,Beauty,Skincare Kit,2,3200,9600,Debit Card,Loyal
+ORD10006,2023-09-15,CUST1021,Jaipur,Electronics,Smartphone,2,45000,135000,UPI,New
+ORD11155,2023-09-15,CUST1610,Jaipur,Electronics,Smart Watch,1,7500,11250,Debit Card,Returning
+ORD10667,2023-09-15,CUST1072,Mumbai,Sports,Running Shoes,1,4800,7200,UPI,New
+ORD10756,2023-09-15,CUST1008,Chennai,Beauty,Skincare Kit,3,3200,14400,Cash on Delivery,New
+ORD10110,2023-09-15,CUST1407,Delhi,Sports,Running Shoes,2,4800,14400,Debit Card,Returning
+ORD10905,2023-09-15,CUST1410,Pune,Electronics,Smartphone,3,45000,202500,UPI,New
+ORD10960,2023-09-15,CUST1261,Delhi,Sports,Running Shoes,1,4800,7200,UPI,New
+ORD10852,2023-09-15,CUST1645,Kolkata,Sports,Yoga Mat,2,1800,5400,UPI,New
+ORD11002,2023-09-15,CUST1346,Bengaluru,Home & Kitchen,Coffee Maker,2,6200,18600,Net Banking,Loyal
+ORD10607,2023-09-15,CUST1122,Kolkata,Fashion,Kurta Set,2,2600,7800,Debit Card,Loyal
+ORD11049,2023-09-16,CUST1327,Pune,Electronics,Smart Watch,1,7500,11250,UPI,Loyal
+ORD10329,2023-09-16,CUST1639,Hyderabad,Home & Kitchen,Air Fryer,1,8500,12750,Debit Card,New
+ORD10899,2023-09-16,CUST1270,Jaipur,Beauty,Skincare Kit,1,3200,4800,UPI,Loyal
+ORD11131,2023-09-16,CUST1506,Hyderabad,Electronics,Wireless Headphones,3,5500,24750,Cash on Delivery,New
+ORD10459,2023-09-16,CUST1617,Bengaluru,Electronics,Smart Watch,1,7500,11250,UPI,New
+ORD10474,2023-09-17,CUST1096,Delhi,Home & Kitchen,Air Fryer,2,8500,25500,Net Banking,Loyal
+ORD10152,2023-09-17,CUST1473,Hyderabad,Electronics,Wireless Headphones,2,5500,16500,Net Banking,Returning
+ORD11057,2023-09-17,CUST1429,Chennai,Sports,Running Shoes,2,4800,14400,UPI,New
+ORD10697,2023-09-17,CUST1335,Jaipur,Electronics,Smartphone,3,45000,202500,UPI,Loyal
+ORD10215,2023-09-17,CUST1349,Hyderabad,Sports,Yoga Mat,1,1800,2700,Debit Card,New
+ORD10752,2023-09-17,CUST1573,Jaipur,Electronics,Smart Watch,2,7500,22500,Debit Card,Returning
+ORD10863,2023-09-17,CUST1320,Bengaluru,Sports,Running Shoes,3,4800,21600,Credit Card,Returning
+ORD10824,2023-09-17,CUST1350,Kolkata,Electronics,Wireless Headphones,3,5500,24750,UPI,Returning
+ORD10071,2023-09-18,CUST1202,Chennai,Electronics,Wireless Headphones,2,5500,16500,UPI,Returning
+ORD10207,2023-09-18,CUST1511,Delhi,Sports,Running Shoes,1,4800,7200,Credit Card,Loyal
+ORD10512,2023-09-18,CUST1042,Jaipur,Sports,Running Shoes,3,4800,21600,Debit Card,New
+ORD10885,2023-09-18,CUST1318,Bengaluru,Electronics,Wireless Headphones,2,5500,16500,Cash on Delivery,New
+ORD11169,2023-09-18,CUST1342,Chennai,Sports,Yoga Mat,2,1800,5400,Debit Card,New
+ORD11102,2023-09-18,CUST1120,Chennai,Sports,Running Shoes,1,4800,7200,UPI,New
+ORD10574,2023-09-18,CUST1369,Bengaluru,Electronics,Wireless Headphones,1,5500,8250,Net Banking,New
+ORD10764,2023-09-18,CUST1028,Mumbai,Sports,Yoga Mat,2,1800,5400,Credit Card,Returning
+ORD10133,2023-09-18,CUST1171,Bengaluru,Beauty,Skincare Kit,1,3200,4800,Debit Card,New
+ORD10150,2023-09-18,CUST1506,Delhi,Sports,Running Shoes,2,4800,14400,Debit Card,Loyal
+ORD10389,2023-09-18,CUST1096,Mumbai,Electronics,Wireless Headphones,2,5500,16500,Credit Card,Loyal
+ORD10169,2023-09-18,CUST1374,Mumbai,Sports,Running Shoes,1,4800,7200,Net Banking,Returning
+ORD10351,2023-09-19,CUST1354,Mumbai,Home & Kitchen,Coffee Maker,2,6200,18600,Credit Card,New
+ORD10236,2023-09-19,CUST1002,Bengaluru,Electronics,Smart Watch,1,7500,11250,Credit Card,New
+ORD10530,2023-09-19,CUST1170,Chennai,Electronics,Premium Laptop,2,81000,243000,UPI,Returning
+ORD10533,2023-09-19,CUST1194,Jaipur,Electronics,Smart Watch,2,7500,22500,UPI,New
+ORD10167,2023-09-19,CUST1225,Delhi,Home & Kitchen,Air Fryer,3,8500,38250,Debit Card,Returning
+ORD10510,2023-09-19,CUST1039,Mumbai,Sports,Running Shoes,2,4800,14400,Net Banking,New
+ORD10185,2023-09-19,CUST1113,Chennai,Home & Kitchen,Air Fryer,2,8500,25500,Cash on Delivery,New
+ORD10451,2023-09-19,CUST1253,Pune,Fashion,Kurta Set,3,2600,11700,UPI,New
+ORD10716,2023-09-19,CUST1183,Delhi,Fashion,Kurta Set,1,2600,3900,Debit Card,New
+ORD10784,2023-09-20,CUST1273,Kolkata,Sports,Yoga Mat,2,1800,5400,Credit Card,New
+ORD10786,2023-09-20,CUST1086,Chennai,Electronics,Smart Watch,3,7500,33750,Debit Card,New
+ORD10765,2023-09-20,CUST1078,Bengaluru,Electronics,Smartphone,4,45000,270000,Credit Card,New
+ORD10052,2023-09-20,CUST1340,Jaipur,Electronics,Smartphone,2,45000,135000,Net Banking,New
+ORD11120,2023-09-20,CUST1523,Jaipur,Fashion,Kurta Set,2,2600,7800,Credit Card,Loyal
+ORD10798,2023-09-20,CUST1109,Hyderabad,Home & Kitchen,Air Fryer,2,8500,25500,Net Banking,Loyal
+ORD10511,2023-09-20,CUST1109,Mumbai,Beauty,Skincare Kit,2,3200,9600,Credit Card,New
+ORD11140,2023-09-21,CUST1209,Chennai,Home & Kitchen,Air Fryer,3,8500,38250,Credit Card,Loyal
+ORD10592,2023-09-21,CUST1305,Bengaluru,Fashion,Kurta Set,1,2600,3900,UPI,New
+ORD10045,2023-09-21,CUST1388,Kolkata,Home & Kitchen,Air Fryer,3,8500,38250,Debit Card,New
+ORD10912,2023-09-21,CUST1296,Chennai,Home & Kitchen,Air Fryer,2,8500,25500,Debit Card,Returning
+ORD10565,2023-09-21,CUST1456,Hyderabad,Beauty,Skincare Kit,3,3200,14400,UPI,New
+ORD10892,2023-09-21,CUST1547,Mumbai,Home & Kitchen,Coffee Maker,2,6200,18600,UPI,Returning
+ORD10652,2023-09-21,CUST1565,Delhi,Sports,Yoga Mat,3,1800,8100,UPI,Returning
+ORD10654,2023-09-21,CUST1083,Mumbai,Home & Kitchen,Air Fryer,4,8500,51000,UPI,Returning
+ORD10804,2023-09-21,CUST1034,Mumbai,Beauty,Skincare Kit,2,3200,9600,UPI,New
+ORD10457,2023-09-21,CUST1418,Pune,Electronics,Smartphone,4,45000,270000,Credit Card,New
+ORD10403,2023-09-22,CUST1435,Hyderabad,Sports,Running Shoes,2,4800,14400,Credit Card,Loyal
+ORD10410,2023-09-22,CUST1453,Jaipur,Sports,Yoga Mat,3,1800,8100,Debit Card,Returning
+ORD10730,2023-09-22,CUST1466,Delhi,Electronics,Smartphone,1,45000,67500,UPI,New
+ORD10197,2023-09-22,CUST1247,Delhi,Sports,Yoga Mat,2,1800,5400,UPI,New
+ORD10282,2023-09-22,CUST1230,Chennai,Beauty,Skincare Kit,2,3200,9600,Debit Card,Loyal
+ORD10036,2023-09-22,CUST1567,Jaipur,Electronics,Premium Laptop,2,81000,243000,Debit Card,Returning
+ORD10271,2023-09-22,CUST1392,Jaipur,Electronics,Premium Laptop,3,81000,364500,Credit Card,Returning
+ORD11048,2023-09-23,CUST1561,Jaipur,Electronics,Smart Watch,2,7500,22500,Debit Card,New
+ORD10060,2023-09-23,CUST1081,Hyderabad,Fashion,Kurta Set,4,2600,15600,Credit Card,Loyal
+ORD10237,2023-09-23,CUST1304,Mumbai,Beauty,Skincare Kit,3,3200,14400,UPI,Returning
+ORD10904,2023-09-23,CUST1078,Chennai,Beauty,Skincare Kit,1,3200,4800,UPI,New
+ORD10788,2023-09-23,CUST1126,Pune,Electronics,Premium Laptop,3,81000,364500,Net Banking,Loyal
+ORD11194,2023-09-23,CUST1310,Delhi,Sports,Running Shoes,2,4800,14400,Net Banking,Returning
+ORD11039,2023-09-23,CUST1049,Hyderabad,Fashion,Kurta Set,2,2600,7800,Debit Card,Returning
+ORD10538,2023-09-23,CUST1339,Pune,Electronics,Smart Watch,2,7500,22500,Cash on Delivery,New
+ORD10998,2023-09-23,CUST1297,Chennai,Fashion,Kurta Set,2,2600,7800,Credit Card,New
+ORD10186,2023-09-23,CUST1002,Pune,Fashion,Kurta Set,3,2600,11700,Credit Card,New
+ORD10120,2023-09-23,CUST1398,Hyderabad,Electronics,Smartphone,2,45000,135000,UPI,New
+ORD10413,2023-09-24,CUST1474,Delhi,Electronics,Wireless Headphones,2,5500,16500,Credit Card,New
+ORD10151,2023-09-24,CUST1348,Delhi,Sports,Yoga Mat,1,1800,2700,UPI,Loyal
+ORD10726,2023-09-24,CUST1634,Kolkata,Fashion,Kurta Set,1,2600,3900,Debit Card,Returning
+ORD11042,2023-09-24,CUST1148,Bengaluru,Beauty,Skincare Kit,1,3200,4800,UPI,Returning
+ORD10396,2023-09-24,CUST1272,Chennai,Electronics,Smart Watch,2,7500,22500,UPI,New
+ORD10699,2023-09-24,CUST1106,Jaipur,Electronics,Premium Laptop,3,81000,364500,Debit Card,Loyal
+ORD10293,2023-09-24,CUST1453,Jaipur,Fashion,Kurta Set,2,2600,7800,UPI,New
+ORD10471,2023-09-24,CUST1192,Delhi,Electronics,Smartphone,3,45000,202500,UPI,New
+ORD10545,2023-09-24,CUST1327,Mumbai,Electronics,Premium Laptop,1,81000,121500,Credit Card,Returning
+ORD10194,2023-09-24,CUST1130,Chennai,Fashion,Kurta Set,3,2600,11700,Net Banking,Returning
+ORD10946,2023-09-25,CUST1289,Pune,Electronics,Wireless Headphones,2,5500,16500,UPI,Returning
+ORD10634,2023-09-25,CUST1224,Kolkata,Sports,Running Shoes,1,4800,7200,Net Banking,New
+ORD10053,2023-09-25,CUST1092,Jaipur,Electronics,Smart Watch,2,7500,22500,Credit Card,Returning
+ORD10539,2023-09-25,CUST1648,Hyderabad,Home & Kitchen,Coffee Maker,2,6200,18600,UPI,Loyal
+ORD10499,2023-09-25,CUST1144,Kolkata,Electronics,Premium Laptop,2,81000,243000,Cash on Delivery,New
+ORD10862,2023-09-25,CUST1090,Kolkata,Sports,Yoga Mat,2,1800,5400,Debit Card,Returning
+ORD10121,2023-09-25,CUST1393,Delhi,Home & Kitchen,Air Fryer,3,8500,38250,Cash on Delivery,Loyal
+ORD10919,2023-09-25,CUST1575,Kolkata,Sports,Running Shoes,1,4800,7200,UPI,New
+ORD10952,2023-09-26,CUST1635,Delhi,Electronics,Smartphone,2,45000,135000,UPI,New
+ORD11050,2023-09-26,CUST1141,Kolkata,Fashion,Kurta Set,2,2600,7800,Cash on Delivery,Loyal
+ORD11200,2023-09-26,CUST1312,Chennai,Sports,Running Shoes,1,4800,7200,Credit Card,Returning
+ORD10212,2023-09-26,CUST1187,Jaipur,Beauty,Skincare Kit,2,3200,9600,UPI,Loyal
+ORD10096,2023-09-26,CUST1593,Jaipur,Electronics,Wireless Headphones,3,5500,24750,Cash on Delivery,New
+ORD10247,2023-09-26,CUST1404,Jaipur,Home & Kitchen,Air Fryer,2,8500,25500,Credit Card,New
+ORD10694,2023-09-26,CUST1249,Kolkata,Beauty,Skincare Kit,2,3200,9600,Credit Card,Returning
+ORD10855,2023-09-26,CUST1118,Hyderabad,Sports,Running Shoes,4,4800,28800,Credit Card,Loyal
+ORD10029,2023-09-26,CUST1561,Delhi,Fashion,Kurta Set,3,2600,11700,Debit Card,New
+ORD10105,2023-09-26,CUST1135,Bengaluru,Beauty,Skincare Kit,2,3200,9600,Credit Card,Returning
+ORD10615,2023-09-26,CUST1502,Jaipur,Electronics,Wireless Headphones,2,5500,16500,UPI,New
+ORD10884,2023-09-26,CUST1581,Delhi,Home & Kitchen,Coffee Maker,3,6200,27900,UPI,New
+ORD10180,2023-09-26,CUST1387,Chennai,Electronics,Smartphone,3,45000,202500,Credit Card,Loyal
+ORD11006,2023-09-27,CUST1001,Pune,Sports,Yoga Mat,3,1800,8100,Debit Card,New
+ORD10938,2023-09-27,CUST1478,Chennai,Electronics,Premium Laptop,1,81000,121500,UPI,New
+ORD10814,2023-09-27,CUST1443,Bengaluru,Electronics,Wireless Headphones,1,5500,8250,Credit Card,New
+ORD10870,2023-09-27,CUST1650,Mumbai,Electronics,Smart Watch,1,7500,11250,Credit Card,New
+ORD10819,2023-09-27,CUST1277,Mumbai,Sports,Running Shoes,2,4800,14400,UPI,New
+ORD10313,2023-09-27,CUST1181,Bengaluru,Electronics,Smart Watch,1,7500,11250,UPI,New
+ORD10066,2023-09-27,CUST1106,Chennai,Home & Kitchen,Air Fryer,1,8500,12750,Debit Card,Loyal
+ORD10582,2023-09-27,CUST1080,Bengaluru,Electronics,Smart Watch,2,7500,22500,Credit Card,Returning
+ORD10241,2023-09-27,CUST1160,Bengaluru,Electronics,Smartphone,1,45000,67500,Credit Card,New
+ORD10430,2023-09-27,CUST1016,Jaipur,Sports,Running Shoes,2,4800,14400,Credit Card,New
+ORD11053,2023-09-27,CUST1318,Mumbai,Electronics,Smart Watch,3,7500,33750,Net Banking,New
+ORD11091,2023-09-28,CUST1229,Chennai,Sports,Running Shoes,2,4800,14400,UPI,Returning
+ORD10762,2023-09-28,CUST1526,Delhi,Electronics,Smartphone,1,45000,67500,Cash on Delivery,New
+ORD10759,2023-09-28,CUST1303,Mumbai,Electronics,Smartphone,4,45000,270000,Net Banking,Returning
+ORD10090,2023-09-28,CUST1129,Delhi,Home & Kitchen,Air Fryer,2,8500,25500,UPI,Returning
+ORD10746,2023-09-28,CUST1214,Kolkata,Beauty,Skincare Kit,1,3200,4800,Debit Card,Loyal
+ORD11093,2023-09-28,CUST1051,Chennai,Electronics,Wireless Headphones,1,5500,8250,UPI,Loyal
+ORD10363,2023-09-28,CUST1613,Hyderabad,Electronics,Wireless Headphones,2,5500,16500,UPI,New
+ORD10811,2023-09-28,CUST1518,Mumbai,Home & Kitchen,Air Fryer,3,8500,38250,UPI,Returning
+ORD10331,2023-09-28,CUST1490,Pune,Electronics,Wireless Headphones,2,5500,16500,Debit Card,Loyal
+ORD10462,2023-09-28,CUST1626,Pune,Fashion,Kurta Set,4,2600,15600,Credit Card,Returning
+ORD10292,2023-09-28,CUST1481,Mumbai,Electronics,Smart Watch,1,7500,11250,Net Banking,New
+ORD10333,2023-09-28,CUST1104,Pune,Electronics,Smartphone,2,45000,135000,Credit Card,Loyal
+ORD10095,2023-09-29,CUST1499,Delhi,Sports,Running Shoes,3,4800,21600,UPI,New
+ORD10117,2023-09-29,CUST1005,Delhi,Electronics,Smartphone,1,45000,67500,UPI,New
+ORD10949,2023-09-29,CUST1598,Delhi,Home & Kitchen,Air Fryer,3,8500,38250,Credit Card,Returning
+ORD10980,2023-09-29,CUST1218,Bengaluru,Home & Kitchen,Coffee Maker,1,6200,9300,Credit Card,Returning
+ORD10015,2023-09-29,CUST1100,Chennai,Home & Kitchen,Coffee Maker,1,6200,9300,Credit Card,New
+ORD10928,2023-09-29,CUST1646,Delhi,Fashion,Kurta Set,4,2600,15600,Net Banking,New
+ORD10390,2023-09-29,CUST1638,Hyderabad,Electronics,Premium Laptop,1,81000,121500,Credit Card,New
+ORD10887,2023-09-29,CUST1334,Bengaluru,Electronics,Smart Watch,3,7500,33750,Debit Card,Returning
+ORD11060,2023-09-30,CUST1144,Pune,Sports,Running Shoes,3,4800,21600,Credit Card,New
+ORD10078,2023-09-30,CUST1338,Hyderabad,Electronics,Wireless Headphones,3,5500,24750,Debit Card,New
+ORD10386,2023-09-30,CUST1058,Delhi,Fashion,Kurta Set,2,2600,7800,UPI,Returning
+ORD10107,2023-10-01,CUST1033,Pune,Fashion,Kurta Set,4,2600,10400,Debit Card,New
+ORD10402,2023-10-01,CUST1154,Jaipur,Home & Kitchen,Air Fryer,3,8500,25500,UPI,New
+ORD10362,2023-10-01,CUST1444,Kolkata,Beauty,Skincare Kit,2,3200,6400,UPI,New
+ORD10031,2023-10-02,CUST1059,Chennai,Home & Kitchen,Air Fryer,2,8500,17000,UPI,Returning
+ORD10766,2023-10-02,CUST1216,Mumbai,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,New
+ORD10591,2023-10-03,CUST1233,Hyderabad,Electronics,Smart Watch,2,7500,15000,Credit Card,Returning
+ORD10628,2023-10-03,CUST1251,Bengaluru,Fashion,Kurta Set,2,2600,5200,Credit Card,Returning
+ORD10996,2023-10-03,CUST1462,Delhi,Beauty,Skincare Kit,2,3200,6400,UPI,New
+ORD10806,2023-10-04,CUST1369,Kolkata,Sports,Running Shoes,2,4800,9600,Credit Card,New
+ORD11135,2023-10-04,CUST1158,Delhi,Electronics,Wireless Headphones,2,5500,11000,Debit Card,Loyal
+ORD11160,2023-10-04,CUST1356,Mumbai,Electronics,Premium Laptop,2,81000,162000,UPI,Returning
+ORD10401,2023-10-04,CUST1076,Mumbai,Fashion,Kurta Set,1,2600,2600,Credit Card,New
+ORD10299,2023-10-05,CUST1017,Chennai,Electronics,Smart Watch,1,7500,7500,UPI,New
+ORD10932,2023-10-06,CUST1554,Pune,Sports,Running Shoes,1,4800,4800,UPI,Loyal
+ORD10360,2023-10-07,CUST1305,Mumbai,Beauty,Skincare Kit,3,3200,9600,Debit Card,New
+ORD10359,2023-10-08,CUST1342,Delhi,Electronics,Smart Watch,2,7500,15000,UPI,New
+ORD11000,2023-10-08,CUST1613,Mumbai,Electronics,Smartphone,3,45000,135000,UPI,Loyal
+ORD10758,2023-10-08,CUST1253,Delhi,Sports,Yoga Mat,2,1800,3600,UPI,Returning
+ORD11106,2023-10-09,CUST1165,Jaipur,Electronics,Wireless Headphones,2,5500,11000,UPI,Loyal
+ORD10547,2023-10-09,CUST1301,Jaipur,Electronics,Wireless Headphones,1,5500,5500,UPI,Returning
+ORD10063,2023-10-09,CUST1002,Mumbai,Electronics,Smart Watch,1,7500,7500,Debit Card,Returning
+ORD10733,2023-10-09,CUST1405,Delhi,Electronics,Wireless Headphones,2,5500,11000,Net Banking,Returning
+ORD10218,2023-10-11,CUST1511,Hyderabad,Electronics,Smart Watch,2,7500,15000,Credit Card,Loyal
+ORD11136,2023-10-11,CUST1632,Chennai,Electronics,Smart Watch,4,7500,30000,UPI,Returning
+ORD10597,2023-10-11,CUST1373,Chennai,Fashion,Kurta Set,3,2600,7800,UPI,Loyal
+ORD10334,2023-10-12,CUST1393,Delhi,Electronics,Wireless Headphones,2,5500,11000,Debit Card,Returning
+ORD10637,2023-10-12,CUST1282,Pune,Beauty,Skincare Kit,4,3200,12800,Net Banking,Loyal
+ORD10616,2023-10-12,CUST1145,Jaipur,Electronics,Wireless Headphones,2,5500,11000,UPI,New
+ORD10316,2023-10-12,CUST1116,Pune,Electronics,Wireless Headphones,2,5500,11000,Credit Card,New
+ORD10910,2023-10-13,CUST1089,Kolkata,Electronics,Premium Laptop,3,81000,243000,UPI,New
+ORD10943,2023-10-13,CUST1441,Kolkata,Sports,Running Shoes,3,4800,14400,UPI,New
+ORD10578,2023-10-14,CUST1058,Chennai,Fashion,Kurta Set,2,2600,5200,UPI,Returning
+ORD10917,2023-10-14,CUST1422,Jaipur,Sports,Running Shoes,2,4800,9600,Credit Card,New
+ORD11037,2023-10-14,CUST1156,Chennai,Beauty,Skincare Kit,3,3200,9600,Net Banking,Returning
+ORD10679,2023-10-14,CUST1624,Chennai,Electronics,Wireless Headphones,2,5500,11000,Credit Card,New
+ORD10493,2023-10-15,CUST1265,Bengaluru,Electronics,Smartphone,1,45000,45000,UPI,New
+ORD10059,2023-10-15,CUST1206,Jaipur,Sports,Yoga Mat,3,1800,5400,Net Banking,Loyal
+ORD10947,2023-10-15,CUST1254,Delhi,Electronics,Smartphone,3,45000,135000,UPI,New
+ORD11020,2023-10-15,CUST1075,Hyderabad,Electronics,Wireless Headphones,2,5500,11000,Net Banking,Loyal
+ORD10871,2023-10-15,CUST1172,Pune,Home & Kitchen,Coffee Maker,2,6200,12400,Net Banking,New
+ORD11003,2023-10-16,CUST1622,Pune,Fashion,Kurta Set,2,2600,5200,UPI,Returning
+ORD10432,2023-10-16,CUST1258,Chennai,Sports,Running Shoes,4,4800,19200,Net Banking,Loyal
+ORD10411,2023-10-16,CUST1204,Hyderabad,Electronics,Smartphone,2,45000,90000,UPI,Returning
+ORD10235,2023-10-16,CUST1572,Delhi,Home & Kitchen,Coffee Maker,3,6200,18600,Net Banking,Loyal
+ORD10001,2023-10-16,CUST1103,Hyderabad,Sports,Yoga Mat,2,1800,3600,UPI,New
+ORD10676,2023-10-16,CUST1236,Chennai,Electronics,Premium Laptop,1,81000,81000,Cash on Delivery,New
+ORD10767,2023-10-17,CUST1386,Bengaluru,Electronics,Wireless Headphones,2,5500,11000,Cash on Delivery,New
+ORD10661,2023-10-17,CUST1446,Mumbai,Electronics,Smart Watch,2,7500,15000,Net Banking,Returning
+ORD10908,2023-10-18,CUST1601,Mumbai,Sports,Running Shoes,1,4800,4800,Debit Card,Returning
+ORD10774,2023-10-18,CUST1363,Mumbai,Beauty,Skincare Kit,1,3200,3200,UPI,New
+ORD10981,2023-10-18,CUST1141,Bengaluru,Home & Kitchen,Air Fryer,2,8500,17000,Debit Card,New
+ORD10023,2023-10-18,CUST1277,Mumbai,Electronics,Wireless Headphones,1,5500,5500,Credit Card,New
+ORD10724,2023-10-18,CUST1093,Jaipur,Electronics,Smartphone,3,45000,135000,Cash on Delivery,New
+ORD10854,2023-10-18,CUST1410,Hyderabad,Beauty,Skincare Kit,2,3200,6400,Credit Card,Returning
+ORD10953,2023-10-19,CUST1118,Hyderabad,Home & Kitchen,Coffee Maker,2,6200,12400,Net Banking,Returning
+ORD11185,2023-10-19,CUST1371,Mumbai,Electronics,Wireless Headphones,3,5500,16500,Debit Card,New
+ORD10087,2023-10-20,CUST1065,Mumbai,Fashion,Kurta Set,2,2600,5200,Debit Card,New
+ORD10138,2023-10-20,CUST1243,Chennai,Electronics,Premium Laptop,3,81000,243000,Credit Card,Loyal
+ORD10517,2023-10-20,CUST1133,Hyderabad,Electronics,Wireless Headphones,1,5500,5500,Debit Card,Returning
+ORD10844,2023-10-20,CUST1574,Chennai,Home & Kitchen,Coffee Maker,2,6200,12400,Cash on Delivery,Loyal
+ORD10743,2023-10-20,CUST1249,Delhi,Electronics,Premium Laptop,3,81000,243000,UPI,Loyal
+ORD10556,2023-10-20,CUST1531,Chennai,Electronics,Wireless Headphones,1,5500,5500,UPI,Returning
+ORD10822,2023-10-20,CUST1624,Chennai,Fashion,Kurta Set,2,2600,5200,UPI,New
+ORD10613,2023-10-20,CUST1540,Kolkata,Electronics,Premium Laptop,2,81000,162000,Debit Card,Loyal
+ORD10643,2023-10-21,CUST1099,Delhi,Sports,Running Shoes,2,4800,9600,Credit Card,New
+ORD10141,2023-10-22,CUST1557,Delhi,Electronics,Smartphone,3,45000,135000,UPI,Returning
+ORD10275,2023-10-22,CUST1640,Kolkata,Electronics,Wireless Headphones,2,5500,11000,UPI,Returning
+ORD10534,2023-10-22,CUST1517,Mumbai,Beauty,Skincare Kit,2,3200,6400,Debit Card,Returning
+ORD10473,2023-10-24,CUST1548,Bengaluru,Electronics,Wireless Headphones,2,5500,11000,UPI,New
+ORD10552,2023-10-25,CUST1445,Chennai,Electronics,Smartphone,2,45000,90000,Debit Card,New
+ORD10795,2023-10-25,CUST1394,Mumbai,Fashion,Kurta Set,2,2600,5200,Credit Card,New
+ORD10633,2023-10-26,CUST1146,Mumbai,Sports,Running Shoes,2,4800,9600,Net Banking,Returning
+ORD10914,2023-10-27,CUST1616,Chennai,Beauty,Skincare Kit,1,3200,3200,UPI,New
+ORD10744,2023-10-27,CUST1047,Pune,Home & Kitchen,Coffee Maker,2,6200,12400,Debit Card,Returning
+ORD10897,2023-10-27,CUST1349,Bengaluru,Electronics,Smart Watch,3,7500,22500,Credit Card,Loyal
+ORD10495,2023-10-27,CUST1384,Jaipur,Electronics,Smartphone,2,45000,90000,Credit Card,Returning
+ORD10222,2023-10-28,CUST1640,Kolkata,Sports,Yoga Mat,2,1800,3600,Credit Card,New
+ORD10409,2023-10-28,CUST1094,Jaipur,Home & Kitchen,Coffee Maker,1,6200,6200,Debit Card,Returning
+ORD10481,2023-10-28,CUST1273,Pune,Home & Kitchen,Coffee Maker,2,6200,12400,Credit Card,New
+ORD10647,2023-10-28,CUST1518,Mumbai,Electronics,Smart Watch,2,7500,15000,UPI,Returning
+ORD10576,2023-10-28,CUST1117,Hyderabad,Home & Kitchen,Air Fryer,1,8500,8500,Net Banking,New
+ORD10084,2023-10-28,CUST1041,Chennai,Beauty,Skincare Kit,3,3200,9600,UPI,Loyal
+ORD10865,2023-10-29,CUST1139,Chennai,Fashion,Kurta Set,1,2600,2600,Cash on Delivery,New
+ORD10111,2023-10-29,CUST1574,Jaipur,Electronics,Smart Watch,3,7500,22500,Cash on Delivery,Loyal
+ORD10675,2023-10-29,CUST1054,Delhi,Electronics,Wireless Headphones,3,5500,16500,UPI,Loyal
+ORD10143,2023-10-29,CUST1646,Pune,Beauty,Skincare Kit,1,3200,3200,Credit Card,Loyal
+ORD10348,2023-10-30,CUST1471,Chennai,Fashion,Kurta Set,2,2600,5200,Debit Card,New
+ORD10670,2023-10-30,CUST1250,Delhi,Electronics,Smartphone,2,45000,90000,UPI,Loyal
+ORD10577,2023-10-30,CUST1134,Jaipur,Sports,Running Shoes,2,4800,9600,Net Banking,New
+ORD10039,2023-10-30,CUST1131,Pune,Electronics,Smartphone,2,45000,90000,UPI,Returning
+ORD10918,2023-10-30,CUST1023,Jaipur,Electronics,Wireless Headphones,3,5500,16500,UPI,New
+ORD10682,2023-10-31,CUST1229,Mumbai,Electronics,Premium Laptop,2,81000,162000,UPI,Loyal
+ORD10735,2023-10-31,CUST1645,Bengaluru,Electronics,Smartphone,3,45000,135000,UPI,New
+ORD10245,2023-10-31,CUST1208,Kolkata,Sports,Yoga Mat,3,1800,5400,Debit Card,Loyal
+ORD10742,2023-10-31,CUST1073,Delhi,Sports,Running Shoes,2,4800,9600,Credit Card,New
+ORD10722,2023-11-01,CUST1195,Pune,Electronics,Smart Watch,4,7500,30000,Cash on Delivery,New
+ORD10134,2023-11-01,CUST1541,Delhi,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD10034,2023-11-01,CUST1190,Jaipur,Home & Kitchen,Coffee Maker,2,6200,12400,Credit Card,Returning
+ORD10603,2023-11-01,CUST1358,Delhi,Home & Kitchen,Air Fryer,3,8500,25500,Cash on Delivery,Returning
+ORD10636,2023-11-02,CUST1177,Kolkata,Electronics,Smart Watch,3,7500,22500,Credit Card,Returning
+ORD10494,2023-11-03,CUST1455,Bengaluru,Electronics,Smart Watch,3,7500,22500,Net Banking,New
+ORD10648,2023-11-04,CUST1476,Hyderabad,Home & Kitchen,Air Fryer,1,8500,8500,UPI,Returning
+ORD11065,2023-11-04,CUST1371,Delhi,Home & Kitchen,Air Fryer,3,8500,25500,UPI,New
+ORD11063,2023-11-04,CUST1018,Mumbai,Electronics,Smart Watch,2,7500,15000,UPI,Returning
+ORD10491,2023-11-05,CUST1233,Delhi,Sports,Yoga Mat,2,1800,3600,Debit Card,Loyal
+ORD10799,2023-11-06,CUST1146,Chennai,Electronics,Wireless Headphones,3,5500,16500,UPI,Returning
+ORD10422,2023-11-06,CUST1522,Jaipur,Sports,Running Shoes,3,4800,14400,Credit Card,Returning
+ORD10158,2023-11-06,CUST1283,Mumbai,Sports,Yoga Mat,1,1800,1800,Credit Card,Loyal
+ORD11010,2023-11-06,CUST1309,Mumbai,Sports,Running Shoes,2,4800,9600,UPI,Returning
+ORD10663,2023-11-07,CUST1488,Kolkata,Electronics,Smartphone,1,45000,45000,Cash on Delivery,New
+ORD10968,2023-11-07,CUST1292,Kolkata,Electronics,Smart Watch,2,7500,15000,Debit Card,New
+ORD10038,2023-11-07,CUST1505,Pune,Electronics,Wireless Headphones,3,5500,16500,UPI,Loyal
+ORD10099,2023-11-07,CUST1289,Chennai,Home & Kitchen,Coffee Maker,1,6200,6200,UPI,New
+ORD10606,2023-11-08,CUST1008,Delhi,Beauty,Skincare Kit,2,3200,6400,UPI,Loyal
+ORD10501,2023-11-08,CUST1099,Pune,Electronics,Smart Watch,2,7500,15000,Credit Card,New
+ORD10595,2023-11-09,CUST1415,Mumbai,Sports,Running Shoes,2,4800,9600,Debit Card,Loyal
+ORD10163,2023-11-09,CUST1456,Delhi,Home & Kitchen,Air Fryer,3,8500,25500,UPI,Returning
+ORD10469,2023-11-10,CUST1394,Jaipur,Electronics,Smart Watch,2,7500,15000,Credit Card,Returning
+ORD11162,2023-11-10,CUST1034,Delhi,Electronics,Smart Watch,3,7500,22500,UPI,New
+ORD11133,2023-11-10,CUST1280,Delhi,Electronics,Wireless Headphones,2,5500,11000,UPI,Returning
+ORD11089,2023-11-10,CUST1054,Mumbai,Sports,Running Shoes,2,4800,9600,UPI,Returning
+ORD10261,2023-11-10,CUST1473,Delhi,Home & Kitchen,Coffee Maker,3,6200,18600,Credit Card,Loyal
+ORD10073,2023-11-11,CUST1271,Mumbai,Electronics,Wireless Headphones,3,5500,16500,Credit Card,New
+ORD10380,2023-11-12,CUST1346,Bengaluru,Electronics,Smart Watch,3,7500,22500,Debit Card,Returning
+ORD10216,2023-11-12,CUST1403,Delhi,Fashion,Kurta Set,3,2600,7800,Credit Card,New
+ORD10886,2023-11-12,CUST1236,Bengaluru,Beauty,Skincare Kit,1,3200,3200,Net Banking,Loyal
+ORD11029,2023-11-12,CUST1182,Chennai,Electronics,Smart Watch,3,7500,22500,Debit Card,Returning
+ORD10972,2023-11-12,CUST1254,Delhi,Beauty,Skincare Kit,1,3200,3200,UPI,New
+ORD10720,2023-11-12,CUST1360,Chennai,Electronics,Wireless Headphones,2,5500,11000,Debit Card,Returning
+ORD10560,2023-11-12,CUST1173,Hyderabad,Electronics,Premium Laptop,3,81000,243000,Net Banking,Returning
+ORD10041,2023-11-14,CUST1647,Delhi,Sports,Running Shoes,4,4800,19200,Debit Card,Loyal
+ORD10113,2023-11-14,CUST1547,Jaipur,Sports,Running Shoes,2,4800,9600,Debit Card,New
+ORD10461,2023-11-14,CUST1501,Mumbai,Fashion,Kurta Set,1,2600,2600,UPI,New
+ORD10463,2023-11-14,CUST1493,Chennai,Sports,Running Shoes,2,4800,9600,UPI,Returning
+ORD10224,2023-11-14,CUST1338,Delhi,Beauty,Skincare Kit,2,3200,6400,UPI,Loyal
+ORD10559,2023-11-14,CUST1451,Delhi,Sports,Yoga Mat,2,1800,3600,Debit Card,New
+ORD10142,2023-11-15,CUST1574,Delhi,Electronics,Smartphone,1,45000,45000,UPI,Returning
+ORD10294,2023-11-15,CUST1516,Kolkata,Sports,Yoga Mat,1,1800,1800,UPI,Loyal
+ORD10392,2023-11-15,CUST1560,Jaipur,Fashion,Kurta Set,1,2600,2600,Net Banking,New
+ORD11173,2023-11-16,CUST1168,Chennai,Beauty,Skincare Kit,4,3200,12800,UPI,New
+ORD10853,2023-11-16,CUST1326,Kolkata,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD10358,2023-11-16,CUST1570,Kolkata,Sports,Running Shoes,1,4800,4800,Net Banking,New
+ORD11007,2023-11-17,CUST1567,Hyderabad,Fashion,Kurta Set,2,2600,5200,Credit Card,Loyal
+ORD10941,2023-11-17,CUST1157,Jaipur,Sports,Running Shoes,2,4800,9600,UPI,Loyal
+ORD10858,2023-11-19,CUST1113,Mumbai,Home & Kitchen,Air Fryer,3,8500,25500,UPI,New
+ORD10196,2023-11-19,CUST1416,Chennai,Beauty,Skincare Kit,1,3200,3200,UPI,New
+ORD10228,2023-11-19,CUST1415,Mumbai,Sports,Yoga Mat,3,1800,5400,Debit Card,Returning
+ORD10128,2023-11-20,CUST1564,Kolkata,Beauty,Skincare Kit,2,3200,6400,Credit Card,New
+ORD11186,2023-11-20,CUST1029,Chennai,Electronics,Wireless Headphones,2,5500,11000,UPI,Returning
+ORD10763,2023-11-20,CUST1474,Mumbai,Sports,Yoga Mat,2,1800,3600,Debit Card,New
+ORD10303,2023-11-20,CUST1477,Kolkata,Sports,Running Shoes,3,4800,14400,Debit Card,New
+ORD10557,2023-11-21,CUST1039,Bengaluru,Home & Kitchen,Air Fryer,1,8500,8500,UPI,Returning
+ORD10623,2023-11-21,CUST1594,Mumbai,Sports,Running Shoes,3,4800,14400,Cash on Delivery,Loyal
+ORD10290,2023-11-22,CUST1609,Pune,Home & Kitchen,Coffee Maker,2,6200,12400,Credit Card,Returning
+ORD10749,2023-11-22,CUST1350,Chennai,Electronics,Wireless Headphones,2,5500,11000,Credit Card,New
+ORD10567,2023-11-22,CUST1001,Delhi,Electronics,Smart Watch,4,7500,30000,Credit Card,New
+ORD10211,2023-11-24,CUST1124,Chennai,Electronics,Smartphone,2,45000,90000,Cash on Delivery,Loyal
+ORD10734,2023-11-24,CUST1513,Pune,Sports,Running Shoes,4,4800,19200,Credit Card,Loyal
+ORD10673,2023-11-24,CUST1306,Bengaluru,Sports,Yoga Mat,2,1800,3600,Credit Card,Loyal
+ORD10072,2023-11-24,CUST1270,Pune,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD10458,2023-11-24,CUST1115,Hyderabad,Home & Kitchen,Air Fryer,2,8500,17000,Debit Card,Returning
+ORD11183,2023-11-25,CUST1363,Mumbai,Electronics,Smart Watch,3,7500,22500,Credit Card,Returning
+ORD10190,2023-11-25,CUST1225,Kolkata,Home & Kitchen,Coffee Maker,2,6200,12400,Credit Card,New
+ORD10729,2023-11-26,CUST1005,Hyderabad,Sports,Yoga Mat,2,1800,3600,Credit Card,New
+ORD10160,2023-11-26,CUST1628,Pune,Electronics,Smartphone,1,45000,45000,Debit Card,Loyal
+ORD10962,2023-11-27,CUST1047,Delhi,Sports,Running Shoes,1,4800,4800,UPI,New
+ORD10709,2023-11-27,CUST1546,Kolkata,Home & Kitchen,Air Fryer,4,8500,34000,Net Banking,Returning
+ORD10202,2023-11-28,CUST1401,Jaipur,Sports,Yoga Mat,1,1800,1800,Debit Card,Returning
+ORD10586,2023-11-28,CUST1227,Bengaluru,Home & Kitchen,Coffee Maker,3,6200,18600,UPI,Returning
+ORD11151,2023-11-29,CUST1004,Hyderabad,Home & Kitchen,Air Fryer,2,8500,17000,Credit Card,Returning
+ORD10147,2023-11-29,CUST1340,Delhi,Home & Kitchen,Coffee Maker,1,6200,6200,Credit Card,New
+ORD10916,2023-11-29,CUST1637,Chennai,Home & Kitchen,Air Fryer,2,8500,17000,Credit Card,Loyal
+ORD10611,2023-11-30,CUST1316,Mumbai,Beauty,Skincare Kit,2,3200,6400,Credit Card,New
+ORD10554,2023-11-30,CUST1167,Pune,Sports,Yoga Mat,3,1800,5400,Net Banking,New
+ORD11026,2023-11-30,CUST1529,Jaipur,Electronics,Smartphone,2,45000,90000,Cash on Delivery,New
+ORD10532,2023-12-01,CUST1634,Hyderabad,Sports,Running Shoes,1,4800,4800,Net Banking,New
+ORD10067,2023-12-01,CUST1477,Bengaluru,Sports,Yoga Mat,2,1800,3600,Debit Card,New
+ORD10296,2023-12-01,CUST1192,Mumbai,Electronics,Smart Watch,2,7500,15000,UPI,Loyal
+ORD10649,2023-12-02,CUST1645,Pune,Fashion,Kurta Set,3,2600,7800,Credit Card,Loyal
+ORD10239,2023-12-02,CUST1453,Bengaluru,Electronics,Smartphone,3,45000,135000,Credit Card,Loyal
+ORD11009,2023-12-02,CUST1431,Delhi,Electronics,Wireless Headphones,3,5500,16500,Debit Card,Loyal
+ORD10987,2023-12-02,CUST1356,Mumbai,Electronics,Wireless Headphones,1,5500,5500,Debit Card,Returning
+ORD10008,2023-12-03,CUST1122,Hyderabad,Beauty,Skincare Kit,2,3200,6400,UPI,New
+ORD11178,2023-12-03,CUST1476,Jaipur,Sports,Running Shoes,3,4800,14400,UPI,Returning
+ORD10344,2023-12-03,CUST1020,Jaipur,Home & Kitchen,Air Fryer,3,8500,25500,Cash on Delivery,Loyal
+ORD11096,2023-12-04,CUST1264,Pune,Beauty,Skincare Kit,3,3200,9600,UPI,Returning
+ORD10404,2023-12-04,CUST1086,Pune,Home & Kitchen,Coffee Maker,2,6200,12400,Cash on Delivery,New
+ORD10044,2023-12-05,CUST1274,Chennai,Home & Kitchen,Air Fryer,1,8500,8500,UPI,Returning
+ORD10707,2023-12-05,CUST1508,Mumbai,Electronics,Smart Watch,2,7500,15000,Debit Card,New
+ORD10122,2023-12-06,CUST1207,Chennai,Electronics,Premium Laptop,2,81000,162000,Net Banking,Returning
+ORD10388,2023-12-06,CUST1513,Jaipur,Sports,Running Shoes,2,4800,9600,Debit Card,New
+ORD10644,2023-12-06,CUST1511,Bengaluru,Sports,Running Shoes,3,4800,14400,Credit Card,New
+ORD10959,2023-12-07,CUST1648,Chennai,Home & Kitchen,Coffee Maker,2,6200,12400,Credit Card,New
+ORD10900,2023-12-08,CUST1291,Jaipur,Fashion,Kurta Set,1,2600,2600,UPI,New
+ORD10971,2023-12-08,CUST1011,Hyderabad,Fashion,Kurta Set,2,2600,5200,Debit Card,Loyal
+ORD11144,2023-12-09,CUST1237,Kolkata,Electronics,Smart Watch,3,7500,22500,UPI,Returning
+ORD10748,2023-12-09,CUST1056,Hyderabad,Home & Kitchen,Coffee Maker,1,6200,6200,Net Banking,New
+ORD11145,2023-12-10,CUST1281,Chennai,Electronics,Wireless Headphones,2,5500,11000,Credit Card,New
+ORD10395,2023-12-10,CUST1237,Delhi,Electronics,Smartphone,4,45000,180000,Credit Card,Returning
+ORD10144,2023-12-10,CUST1028,Jaipur,Beauty,Skincare Kit,1,3200,3200,UPI,Returning
+ORD10287,2023-12-10,CUST1027,Pune,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,New
+ORD10135,2023-12-10,CUST1036,Kolkata,Electronics,Smart Watch,2,7500,15000,Debit Card,Loyal
+ORD10711,2023-12-10,CUST1450,Jaipur,Electronics,Smartphone,2,45000,90000,UPI,New
+ORD11040,2023-12-11,CUST1084,Delhi,Electronics,Smart Watch,1,7500,7500,Credit Card,New
+ORD10569,2023-12-11,CUST1348,Mumbai,Beauty,Skincare Kit,1,3200,3200,Credit Card,New
+ORD10250,2023-12-11,CUST1120,Delhi,Sports,Running Shoes,2,4800,9600,Net Banking,New
+ORD10674,2023-12-11,CUST1268,Bengaluru,Sports,Yoga Mat,3,1800,5400,UPI,Returning
+ORD10831,2023-12-11,CUST1040,Bengaluru,Beauty,Skincare Kit,2,3200,6400,Net Banking,Returning
+ORD10993,2023-12-13,CUST1378,Chennai,Electronics,Smart Watch,2,7500,15000,Credit Card,New
+ORD10233,2023-12-13,CUST1346,Chennai,Fashion,Kurta Set,2,2600,5200,Debit Card,Loyal
+ORD11198,2023-12-13,CUST1406,Jaipur,Sports,Running Shoes,2,4800,9600,Net Banking,New
+ORD10933,2023-12-14,CUST1448,Chennai,Electronics,Smart Watch,1,7500,7500,Debit Card,Loyal
+ORD10460,2023-12-14,CUST1196,Hyderabad,Electronics,Smart Watch,2,7500,15000,UPI,New
+ORD10225,2023-12-15,CUST1641,Mumbai,Electronics,Smart Watch,3,7500,22500,Credit Card,Returning
+ORD10377,2023-12-15,CUST1120,Chennai,Sports,Yoga Mat,2,1800,3600,UPI,Returning
+ORD11031,2023-12-15,CUST1180,Bengaluru,Electronics,Premium Laptop,2,81000,162000,Debit Card,Returning
+ORD10156,2023-12-15,CUST1385,Chennai,Electronics,Smartphone,1,45000,45000,Debit Card,New
+ORD10785,2023-12-16,CUST1231,Hyderabad,Fashion,Kurta Set,2,2600,5200,UPI,Loyal
+ORD11170,2023-12-16,CUST1027,Chennai,Electronics,Wireless Headphones,3,5500,16500,Debit Card,New
+ORD10587,2023-12-16,CUST1532,Kolkata,Sports,Yoga Mat,2,1800,3600,Debit Card,New
+ORD10513,2023-12-16,CUST1186,Bengaluru,Electronics,Smart Watch,3,7500,22500,Credit Card,New
+ORD10787,2023-12-17,CUST1474,Delhi,Electronics,Smart Watch,2,7500,15000,Debit Card,New
+ORD11171,2023-12-18,CUST1287,Delhi,Home & Kitchen,Air Fryer,3,8500,25500,Credit Card,Returning
+ORD10500,2023-12-18,CUST1069,Jaipur,Fashion,Kurta Set,1,2600,2600,Debit Card,Returning
+ORD10656,2023-12-18,CUST1085,Delhi,Sports,Yoga Mat,1,1800,1800,Credit Card,New
+ORD10301,2023-12-18,CUST1220,Pune,Electronics,Smart Watch,2,7500,15000,UPI,Returning
+ORD10881,2023-12-19,CUST1419,Chennai,Electronics,Wireless Headphones,3,5500,16500,Credit Card,New
+ORD10242,2023-12-19,CUST1009,Delhi,Home & Kitchen,Air Fryer,2,8500,17000,Credit Card,Returning
+ORD10429,2023-12-19,CUST1516,Bengaluru,Home & Kitchen,Air Fryer,2,8500,17000,Debit Card,Loyal
+ORD10909,2023-12-20,CUST1042,Kolkata,Home & Kitchen,Coffee Maker,2,6200,12400,Credit Card,Returning
+ORD10285,2023-12-20,CUST1438,Hyderabad,Electronics,Smart Watch,2,7500,15000,Credit Card,New
+ORD10231,2023-12-20,CUST1263,Chennai,Electronics,Smart Watch,1,7500,7500,Credit Card,Loyal
+ORD10529,2023-12-20,CUST1168,Hyderabad,Home & Kitchen,Coffee Maker,2,6200,12400,UPI,New
+ORD10546,2023-12-21,CUST1217,Kolkata,Fashion,Kurta Set,2,2600,5200,Credit Card,Returning
+ORD10727,2023-12-21,CUST1051,Delhi,Electronics,Wireless Headphones,2,5500,11000,Debit Card,New
+ORD10487,2023-12-22,CUST1177,Chennai,Sports,Running Shoes,3,4800,14400,Debit Card,Loyal
+ORD10270,2023-12-22,CUST1504,Bengaluru,Electronics,Wireless Headphones,3,5500,16500,Credit Card,Returning
+ORD10192,2023-12-23,CUST1403,Kolkata,Electronics,Smart Watch,3,7500,22500,UPI,Loyal
+ORD10349,2023-12-23,CUST1143,Bengaluru,Electronics,Smart Watch,3,7500,22500,UPI,Loyal
+ORD10657,2023-12-24,CUST1078,Bengaluru,Electronics,Smartphone,2,45000,90000,UPI,Loyal
+ORD11062,2023-12-25,CUST1019,Chennai,Electronics,Wireless Headphones,3,5500,16500,Net Banking,Returning
+ORD10440,2023-12-25,CUST1268,Kolkata,Electronics,Smartphone,2,45000,90000,Debit Card,Returning
+ORD10453,2023-12-25,CUST1035,Jaipur,Electronics,Premium Laptop,2,81000,162000,UPI,New
+ORD10447,2023-12-26,CUST1397,Hyderabad,Sports,Running Shoes,2,4800,9600,UPI,New
+ORD11182,2023-12-26,CUST1130,Hyderabad,Electronics,Wireless Headphones,2,5500,11000,Net Banking,New
+ORD10283,2023-12-26,CUST1365,Bengaluru,Home & Kitchen,Coffee Maker,3,6200,18600,Credit Card,Loyal
+ORD10958,2023-12-27,CUST1157,Delhi,Sports,Yoga Mat,2,1800,3600,UPI,New
+ORD10684,2023-12-27,CUST1075,Bengaluru,Home & Kitchen,Air Fryer,2,8500,17000,Debit Card,Returning
+ORD10588,2023-12-27,CUST1441,Pune,Beauty,Skincare Kit,2,3200,6400,Credit Card,Loyal
+ORD10502,2023-12-27,CUST1396,Pune,Electronics,Smartphone,2,45000,90000,Debit Card,Returning
+ORD10802,2023-12-28,CUST1111,Jaipur,Home & Kitchen,Coffee Maker,3,6200,18600,UPI,Loyal
+ORD10475,2023-12-28,CUST1190,Chennai,Electronics,Premium Laptop,3,81000,243000,Credit Card,New
+ORD10266,2023-12-29,CUST1161,Chennai,Sports,Running Shoes,1,4800,4800,UPI,New
+ORD10248,2023-12-29,CUST1152,Bengaluru,Sports,Yoga Mat,2,1800,3600,Net Banking,New
+ORD10520,2023-12-30,CUST1235,Jaipur,Home & Kitchen,Air Fryer,2,8500,17000,UPI,Returning
+ORD10751,2023-12-30,CUST1048,Chennai,Beauty,Skincare Kit,1,3200,3200,Debit Card,Returning
+ORD10940,2023-12-30,CUST1420,Delhi,Electronics,Smart Watch,2,7500,15000,Cash on Delivery,New
+ORD10009,2023-12-31,CUST1467,Delhi,Fashion,Kurta Set,2,2600,5200,UPI,Returning
+ORD10056,2023-12-31,CUST1428,Jaipur,Electronics,Smartphone,2,45000,90000,Debit Card,Returning
+ORD10708,2023-12-31,CUST1069,Delhi,Home & Kitchen,Coffee Maker,2,6200,12400,Credit Card,New
+ORD10288,2023-12-31,CUST1226,Delhi,Electronics,Smart Watch,1,7500,7500,UPI,Returning
