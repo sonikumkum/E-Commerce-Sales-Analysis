@@ -7,7 +7,7 @@
 ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?logo=microsoftexcel)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)
 
-An end-to-end **E-Commerce Sales Analytics project** focused on analyzing sales performance, customer behavior, product performance, revenue trends, and business growth opportunities using **Python, MySQL, Excel, and Power BI**.
+An end-to-end **E-Commerce Sales Analytics project** focused on analyzing sales performance, customer behavior, product performance, revenue trends, and business growth opportunities using **Python, MySQL, MSExcel, and Power BI**.
 
 ---
 
